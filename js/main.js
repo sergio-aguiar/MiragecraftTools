@@ -28,47 +28,43 @@ function calculateOdds()
 
 	let fullOdds = 10240;
 	let output = "";
-	if (catchCombo > 200) 
+	
+	let reducedOdds, shinyRolls;
+
+	if (catchCombo > 200)
 	{
-		let shinyRolls = Math.min(((catchCombo - Math.max(200, lastShinyCombo)) * 0.1) + 6, 18);
-		let reducedOdds = fullOdds / shinyRolls;
-
-		output += "<strong>Without an active Shiny Boost:</strong><br>";
-		output += `You have a <strong>1 in ${reducedOdds.toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
-		output += "<br>"
-		output += "<strong>With an active 2x Shiny Boost:</strong><br>";
-		output += `You have a <strong>1 in ${(reducedOdds / 2).toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
-		output += "<br>"
-		output += "<strong>With an active 3x Shiny Boost:</strong><br>";
-		output += `You have a <strong>1 in ${(reducedOdds / 3).toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
+		shinyRolls = Math.min(((catchCombo - Math.max(200, lastShinyCombo)) * 0.1) + 6, 18);
+		reducedOdds = fullOdds / shinyRolls;
 	}
-	else
+	else if (catchCombo > 47) 
 	{
-		let odds, rolls;
-
-		if (catchCombo > 47) {
-			odds = fullOdds/6;
-			rolls = 6;
-		} else if (catchCombo > 31) {
-			odds = fullOdds/4;
-			rolls = 4;
-		} else if (catchCombo > 15) {
-			odds = fullOdds/2;
-			rolls = 2;
-		} else {
-			odds = fullOdds;
-			rolls = 1;
-		}
-
-		output += "<strong>Without an active Shiny Boost:</strong><br>";
-		output += `You have a <strong>1 in ${odds.toFixed(2)} (${rolls} shiny roll${rolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
-		output += "<br>"
-		output += "<strong>With an active 2x Shiny Boost:</strong><br>";
-		output += `You have a <strong>1 in ${(odds / 2).toFixed(2)} (${rolls} shiny roll${rolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
-		output += "<br>"
-		output += "<strong>With an active 3x Shiny Boost:</strong><br>";
-		output += `You have a <strong>1 in ${(odds / 3).toFixed(2)} (${rolls} shiny roll${rolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
+		shinyRolls = 6;
+		reducedOdds = fullOdds / 6;
+	} 
+	else if (catchCombo > 31) 
+	{
+		shinyRolls = 4;
+		reducedOdds = fullOdds / 4;
+	} 
+	else if (catchCombo > 15)
+	{
+		shinyRolls = 2;
+		reducedOdds = fullOdds / 2;
+	} 
+	else 
+	{
+		shinyRolls = 1;
+		reducedOdds = fullOdds;
 	}
+
+	output += "<strong>Without an active Shiny Boost:</strong><br>";
+	output += `You have a <strong>1 in ${reducedOdds.toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
+	output += "<br>"
+	output += "<strong>With an active 2x Shiny Boost:</strong><br>";
+	output += `You have a <strong>1 in ${(reducedOdds / 2).toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
+	output += "<br>"
+	output += "<strong>With an active 3x Shiny Boost:</strong><br>";
+	output += `You have a <strong>1 in ${(reducedOdds / 3).toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
 
 	resultDiv.innerHTML = output;
 }
