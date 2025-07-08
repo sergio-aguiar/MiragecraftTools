@@ -17,7 +17,7 @@ function calculateOdds()
 
 	if (isNaN(lastShinyCombo) || lastShinyCombo < 0 || lastShinyCombo > catchCombo) 
 	{
-		resultDiv.innerHTML += "Please enter a valid Catch Combo value for your last shiny catch.<br>";
+		resultDiv.innerHTML += "Please enter a valid Catch Combo value for your last shiny spawn.<br>";
 		hasError = true;
 	}
 

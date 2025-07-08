@@ -44,9 +44,9 @@ button:hover {
 }
 
 h1 {
-  margin-bottom: 5px; /* reduce bottom margin */
+  margin-bottom: 5px;
 }
 
 h2 {
-  margin-top: 0; /* remove top margin if needed */
+  margin-top: 0;
 }
