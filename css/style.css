@@ -8,11 +8,11 @@ html, body {
 .page-container {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* full viewport height */
+  min-height: 100vh;
 }
 
 .content-wrap {
-  flex: 1; /* takes available space, pushes footer down */
+  flex: 1;
   padding: 20px;
 }
 
