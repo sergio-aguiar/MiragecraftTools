@@ -31,9 +31,9 @@ function calculateOdds()
 	
 	let reducedOdds, shinyRolls;
 
-	if (catchCombo > 200)
+	if (catchCombo - lastShinyCombo > 200)
 	{
-		shinyRolls = Math.min(((catchCombo - Math.max(200, lastShinyCombo)) * 0.1) + 6, 18);
+		shinyRolls = Math.min((catchCombo - lastShinyCombo - 200) * 0.1 + 6, 18);
 		reducedOdds = fullOdds / shinyRolls;
 	}
 	else if (catchCombo > 47) 
