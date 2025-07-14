@@ -33,20 +33,30 @@ function calculateOdds()
 
 	if (catchCombo - lastShinyCombo > 200)
 	{
-		shinyRolls = Math.min((catchCombo - lastShinyCombo - 200) * 0.1 + 6, 18);
+		shinyRolls = Math.min((catchCombo - lastShinyCombo - 200) * 0.05 + 6, 12);
 		reducedOdds = fullOdds / shinyRolls;
 	}
-	else if (catchCombo > 47) 
+	else if (catchCombo > 99) 
 	{
 		shinyRolls = 6;
 		reducedOdds = fullOdds / 6;
-	} 
-	else if (catchCombo > 31) 
+	}
+	else if (catchCombo > 59) 
+	{
+		shinyRolls = 5;
+		reducedOdds = fullOdds / 5;
+	}
+	else if (catchCombo > 39) 
 	{
 		shinyRolls = 4;
 		reducedOdds = fullOdds / 4;
-	} 
-	else if (catchCombo > 15)
+	}
+	else if (catchCombo > 29) 
+	{
+		shinyRolls = 3;
+		reducedOdds = fullOdds / 3;
+	}
+	else if (catchCombo > 19)
 	{
 		shinyRolls = 2;
 		reducedOdds = fullOdds / 2;
