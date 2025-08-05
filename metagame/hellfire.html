@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hellfire Memorial</title>
+  <link rel="stylesheet" href="../css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <ul class="nav-list">
+      <li><a href="../index.html">Shiny Calculator</a></li>
+      <li class="dropdown">
+        <a href="#">Metagames</a>
+        <ul class="dropdown-content">
+          <li><a href="hellfire.html" class="active">Hellfire Memorial</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+
+  <div class="page-container">
+    <div class="content-wrap">
+      <div class="wide-container">
+        <div class="intro-card">
+          <h1>Hellfire Memorial</h1>
+          <p>Welcome to the Hellfire Memorial format! In this page, you can expect to see:</p>
+          <ul>
+            <li>A quick overview of the format and why it exists;</li>
+            <li>The list of battle clauses in effect;</li>
+            <li>The list of banned held items;</li>
+            <li>The list of allowed Pokémon.</li>
+          </ul>
+
+          <h2>Overview</h2>
+          <p>
+            Hellfire Memorial is a custom competitive format designed to pay homage to Hellfire's long history at MirageCraft.
+            The main constraint of this format is the fact that all teams must include, exclusively, Pokémon previously used by Hellfire members (or deeply connected) in competitive play (gyms, tournaments, etc.).
+          </p>
+        </div>
+
+        <h2>Battle Clauses</h2>
+        <div class="battle-clause-card">
+            <div class="clause-title">Form Clause</div>
+            <div class="clause-body">
+              <p>A player cannot have two Pokémon sharing a form on a team, unless specified in the "Allowed Pokémon" observations. A player may use multiple Pokémon with the same National Pokédex number on a team, as long as their forms differ.</p>
+              <p><strong>Example:</strong> A player may have both a regular Braviary and a Braviary-Hisui on their team, but may not have two Starmie.</p>
+            </div>
+        </div>
+
+        <div class="battle-clause-card">
+          <div class="clause-title">Endless Battle Clause</div>
+          <div class="clause-body">
+            <p>Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.</p>
+            <p><strong>Example:</strong> A Slowbro can create an endless battle by having a Leppa Berry equipped and the moves Recycle, Heal Pulse, Slack Off and Block. You are not allowed to trap an opposing Pokémon and force an infinite battle by healing the opponent after PP stalling it.</p>
+          </div>
+        </div>
+
+        <h2>Banned Held Items</h2>
+        <div class="banned-items-header">
+          <div>Item</div>
+          <div>Observations</div>
+        </div>
+        <div class="banned-items-list">
+          <div class="banned-item-entry">
+            <div class="item-main">
+              <img src="https://veekun.com/dex/media/items/gengarite.png" alt="Gengarite icon" class="item-icon" />
+              <span class="item-name">Gengarite</span>
+            </div>
+            <div class="item-observations">Mega Gengars trapping is extremely oppressive.</div>
+          </div>
+          <div class="banned-item-entry">
+            <div class="item-main">
+              <img src="https://veekun.com/dex/media/items/mewtwonite-x.png" alt="Mewtwonite X icon" class="item-icon" />
+              <span class="item-name">Mewtwonite X</span>
+            </div>
+            <div class="item-observations">Too strong and fast for the formats balance.</div>
+          </div>
+        </div>
+
+        <h2>Allowed Pokémon</h2>
+        <div class="pokemon-header">
+          <div>Pokémon</div>
+          <div>Type(s)</div>
+          <div>Abilities</div>
+          <div>Stats</div>
+          <div>Observations</div>
+        </div>
+        <div class="pokemon-list" id="pokemon-list"></div>
+        <script src="hellfire.js"></script>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,66 @@
+.banned-items-list {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Inter', sans-serif;
+}
+
+.banned-item-entry {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  align-items: center;
+  gap: 12px;
+  background-color: #b7d3f3;
+  padding: 10px 0;
+  font-size: 0.9rem;
+}
+
+.banned-items-list .banned-item-entry:nth-of-type(even) {
+  background-color: #d7e3f2;
+}
+
+.banned-items-header {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  align-items: center;
+  gap: 12px;
+  background-color: #2d5ebe;
+  color: white;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.banned-items-header > div,
+.banned-item-entry > div {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.banned-items-header > div:first-child,
+.banned-item-entry > div:first-child {
+  padding-left: 10px;
+}
+
+.item-main {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.item-icon {
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.item-name {
+  font-weight: 600;
+  color: #222;
+}
+
+.item-observations {
+  padding-left: 10px;
+  color: #333;
+  font-size: 0.9rem;
+}

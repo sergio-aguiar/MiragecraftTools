@@ -1,0 +1,9 @@
+input {
+  padding: 10px;
+  font-size: 1em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}

@@ -1,0 +1,150 @@
+.pokemon-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.pokemon-entry {
+  display: grid;
+  align-items: center;
+  gap: 12px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  grid-template-columns: 180px 150px 220px 400px 1fr;
+  background-color: #b7d3f3;
+}
+
+.pokemon-list .pokemon-entry:nth-of-type(even) {
+  background-color: #d7e3f2;
+}
+
+.pokemon-header {
+  display: grid;
+  font-weight: bold;
+  background-color: #2d5ebe;
+  color: white;
+  padding: 10px 0;
+  grid-template-columns: 180px 150px 220px 400px 1fr;
+  align-items: center;
+  gap: 12px;
+}
+
+.pokemon-header > div,
+.pokemon-entry > div {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.pokemon-header > div:first-child,
+.pokemon-entry > div:first-child {
+  padding-left: 10px;
+}
+
+.pokemon-header > div:last-child {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.pokemon-header > div:nth-child(4) {
+  padding-left: 10px;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.poke-main {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.poke-icon {
+  width: 50px;
+  flex-shrink: 0;
+}
+
+.poke-icon img {
+  width: 48px;
+  height: 48px;
+}
+
+.poke-name {
+  width: 120px;
+}
+
+.poke-types {
+  width: 100px;
+}
+
+.type {
+  padding: 2px 8px;
+  border-radius: 12px;
+  color: white;
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: capitalize;
+  margin-right: 5px;
+}
+
+.type.electric { background-color: #FFCC33; color: #5A4900; }
+.type.fire { background-color: #F08030; }
+.type.water { background-color: #6890F0; }
+.type.grass { background-color: #78C850; }
+.type.fairy { background-color: #EE99AC; }
+.type.poison { background-color: #A040A0; }
+.type.flying { background-color: #A890F0; }
+
+.poke-abilities {
+  width: 180px;
+}
+
+.poke-abilities span {
+  display: inline-block;
+  margin-right: 6px;
+  font-style: italic;
+  color: #444;
+}
+
+.poke-stats {
+  display: flex;
+  gap: 10px;
+  flex-wrap: nowrap;
+  padding-left: 10px;
+  margin: 0;
+  width: 100%;
+}
+
+.poke-stats div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 0;
+  margin: 0;
+}
+
+.poke-stats > div {
+  flex: 0 0 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.poke-stats > div strong {
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.observations {
+  padding-left: 10px;
+  font-size: 0.9rem;
+  color: #333;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  width: auto;
+}
