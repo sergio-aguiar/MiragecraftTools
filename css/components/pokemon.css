@@ -9,7 +9,7 @@
   gap: 12px;
   font-family: 'Inter', sans-serif;
   font-size: 0.9rem;
-  grid-template-columns: 180px 150px 220px 400px 1fr;
+  grid-template-columns: 180px 180px 280px 380px 1fr;
   background-color: #b7d3f3;
 }
 
@@ -23,7 +23,7 @@
   background-color: #2d5ebe;
   color: white;
   padding: 10px 0;
-  grid-template-columns: 180px 150px 220px 400px 1fr;
+  grid-template-columns: 180px 180px 280px 380px 1fr;
   align-items: center;
   gap: 12px;
 }
@@ -73,36 +73,69 @@
 }
 
 .poke-types {
-  width: 100px;
+  width: 180px;
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
 }
 
 .type {
+  display: inline-block;
+  width: 80px;
+  text-align: center;
   padding: 2px 8px;
   border-radius: 12px;
   color: white;
   font-weight: 600;
   font-size: 0.8rem;
   text-transform: capitalize;
-  margin-right: 5px;
+  box-sizing: border-box;
+  margin-right: 4px;
 }
 
-.type.electric { background-color: #FFCC33; color: #5A4900; }
-.type.fire { background-color: #F08030; }
-.type.water { background-color: #6890F0; }
-.type.grass { background-color: #78C850; }
-.type.fairy { background-color: #EE99AC; }
-.type.poison { background-color: #A040A0; }
-.type.flying { background-color: #A890F0; }
+.type.normal  { background-color: #A8A77A; color: #ffffff; }
+.type.fire    { background-color: #EE8130; color: #ffffff; }
+.type.water   { background-color: #6390F0; color: #ffffff; }
+.type.electric{ background-color: #F7D02C; color: #5A4900; }
+.type.grass   { background-color: #7AC74C; color: #ffffff; }
+.type.ice     { background-color: #96D9D6; color: #000000; }
+.type.fighting{ background-color: #C22E28; color: #ffffff; }
+.type.poison  { background-color: #A33EA1; color: #ffffff; }
+.type.ground  { background-color: #E2BF65; color: #5A4900; }
+.type.flying  { background-color: #A98FF3; color: #ffffff; }
+.type.psychic { background-color: #F95587; color: #ffffff; }
+.type.bug     { background-color: #A6B91A; color: #ffffff; }
+.type.rock    { background-color: #B6A136; color: #ffffff; }
+.type.ghost   { background-color: #735797; color: #ffffff; }
+.type.dragon  { background-color: #6F35FC; color: #ffffff; }
+.type.dark    { background-color: #705746; color: #ffffff; }
+.type.steel   { background-color: #B7B7CE; color: #000000; }
+.type.fairy   { background-color: #D685AD; color: #ffffff; }
 
 .poke-abilities {
-  width: 180px;
+  display: flex;
+  width: 280px;
 }
 
 .poke-abilities span {
   display: inline-block;
   margin-right: 6px;
-  font-style: italic;
   color: #444;
+  max-width: 100%;
+}
+
+.ability-column {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  box-sizing: border-box;
+  color: #444;
+}
+
+.hidden-ability {
+  font-weight: bold;
+  font-style: normal;
 }
 
 .poke-stats {
@@ -140,7 +173,6 @@
 }
 
 .observations {
-  padding-left: 10px;
   font-size: 0.9rem;
   color: #333;
   display: flex;

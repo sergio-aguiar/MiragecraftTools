@@ -1,3 +1,7 @@
+.banned-items-section {
+  margin-bottom: 15px;
+}
+
 .banned-items-list {
   display: flex;
   flex-direction: column;
