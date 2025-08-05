@@ -68,3 +68,10 @@
   color: #333;
   font-size: 0.9rem;
 }
+
+.banned-item-entry > div,
+.banned-items-header > div {
+  min-width: 0;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
