@@ -2015,7 +2015,7 @@
     },
     {
         "name": "Corviknight",
-        "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png",
+        "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png",
         "types": ["Flying", "Steel"],
         "abilities": {
             "regular": ["Pressure", "Unnerve"],
