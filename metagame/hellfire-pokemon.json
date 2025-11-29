@@ -2090,7 +2090,7 @@
         "observations": "Trainers are not allowed to use Basculegion-F in this format."
     },
     {
-        "name": "Mewscarada",
+        "name": "Mewoscarada",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png",
         "types": ["Grass", "Dark"],
         "abilities": {
