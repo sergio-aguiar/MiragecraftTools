@@ -365,7 +365,7 @@
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
         "types": ["Rock", "Ground"],
         "abilities": {
-            "regular": ["Sturdy", "Rock Head"],
+            "regular": ["Rock Head", "Sturdy"],
             "hidden": "Sand Veil"
         },
         "stats": 
@@ -1277,8 +1277,8 @@
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png",
         "types": ["Rock", "Steel"],
         "abilities": {
-            "regular": ["Sturdy", "Soundproof"],
-            "hidden": "Flash Fire"
+            "regular": ["Sturdy"],
+            "hidden": "Soundproof"
         },
         "stats": 
         {
@@ -1353,8 +1353,8 @@
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png",
         "types": ["Dragon", "Ground"],
         "abilities": {
-            "regular": ["Rough Skin"],
-            "hidden": "Sand Veil"
+            "regular": ["Sand Veil"],
+            "hidden": "Rough Skin"
         },
         "stats": 
         {
