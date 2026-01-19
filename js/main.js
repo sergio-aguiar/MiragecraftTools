@@ -31,27 +31,42 @@ function calculateOdds()
 	
 	let reducedOdds, shinyRolls;
 
-	if (catchCombo - lastShinyCombo > 200)
+	if (catchCombo > 319) 
 	{
-		shinyRolls = Math.min((catchCombo - lastShinyCombo - 200) * 0.05 + 6, 12);
-		reducedOdds = fullOdds / shinyRolls;
+		shinyRolls = 10;
+		reducedOdds = fullOdds / 10;
 	}
-	else if (catchCombo > 99) 
+	else if (catchCombo > 279) 
+	{
+		shinyRolls = 9;
+		reducedOdds = fullOdds / 9;
+	}
+	else if (catchCombo > 239) 
+	{
+		shinyRolls = 8;
+		reducedOdds = fullOdds / 8;
+	}
+	else if (catchCombo > 199) 
+	{
+		shinyRolls = 7;
+		reducedOdds = fullOdds / 7;
+	}
+	else if (catchCombo > 159) 
 	{
 		shinyRolls = 6;
 		reducedOdds = fullOdds / 6;
 	}
-	else if (catchCombo > 59) 
+	else if (catchCombo > 119) 
 	{
 		shinyRolls = 5;
 		reducedOdds = fullOdds / 5;
 	}
-	else if (catchCombo > 39) 
+	else if (catchCombo > 79) 
 	{
 		shinyRolls = 4;
 		reducedOdds = fullOdds / 4;
 	}
-	else if (catchCombo > 29) 
+	else if (catchCombo > 39) 
 	{
 		shinyRolls = 3;
 		reducedOdds = fullOdds / 3;
@@ -67,14 +82,13 @@ function calculateOdds()
 		reducedOdds = fullOdds;
 	}
 
-	output += "<strong>Without an active Shiny Boost:</strong><br>";
-	output += `You have a <strong>1 in ${reducedOdds.toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
-	output += "<br>"
-	output += "<strong>With an active 2x Shiny Boost:</strong><br>";
-	output += `You have a <strong>1 in ${(reducedOdds / 2).toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
-	output += "<br>"
-	output += "<strong>With an active 3x Shiny Boost:</strong><br>";
-	output += `You have a <strong>1 in ${(reducedOdds / 3).toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
+	let serverBooster = parseInt(document.getElementById("serverBooster").value);
+	let gemBooster = parseInt(document.getElementById("gemBooster").value);
+	let totalMultiplier = serverBooster * gemBooster;
 
+	output += "<strong>Current shiny odds (not taking any Poké Snacks into account):</strong><br>";
+	let finalOdds = reducedOdds / totalMultiplier;
+	output += `You have a <strong>1 in ${finalOdds.toFixed(2)} (${shinyRolls} shiny roll${shinyRolls > 1 ? "s" : ""})</strong> chance of a shiny spawning for the species you are currently hunting!<br>`;
+	
 	resultDiv.innerHTML = output;
 }
