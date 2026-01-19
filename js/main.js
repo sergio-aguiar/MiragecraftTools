@@ -3,7 +3,6 @@ document.getElementById("calculateBtn").addEventListener("click", calculateOdds)
 function calculateOdds() 
 {
 	let catchCombo = parseInt(document.getElementById("catchCombo").value);
-	let lastShinyCombo = parseInt(document.getElementById("lastShinyCombo").value);
 	let resultDiv = document.getElementById("result");
 	let hasError = false;
 
@@ -12,12 +11,6 @@ function calculateOdds()
 	if (isNaN(catchCombo) || catchCombo < 0) 
 	{
 		resultDiv.innerHTML += "Please enter a valid current Catch Combo.<br>";
-		hasError = true;
-	}
-
-	if (isNaN(lastShinyCombo) || lastShinyCombo < 0 || lastShinyCombo > catchCombo) 
-	{
-		resultDiv.innerHTML += "Please enter a valid Catch Combo value for your last shiny spawn.<br>";
 		hasError = true;
 	}
 
