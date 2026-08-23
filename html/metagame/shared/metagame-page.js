@@ -12,7 +12,7 @@ function renderPage(config, pokemon, bannedItems, mandatoryPokemon) {
   const root = document.getElementById('metagame-page');
   document.title = config.title;
   root.innerHTML = `
-    <nav class="top-nav"><ul class="nav-list"><li><a href="../../../index.html">Shiny Calculator</a></li><li class="dropdown"><a href="#">Metagames</a><ul class="dropdown-content"><li><a href="../hellfire-1/index.html"${config.title === 'Hellfire Memorial' ? ' class="active"' : ''}>Hellfire Memorial</a></li><li><a href="../hellfire-2/index.html"${config.title === 'Hellfire Celebrational I' ? ' class="active"' : ''}>Hellfire Celebrational I</a></li></ul></li></ul></nav>
+    <nav class="top-nav"><ul class="nav-list"><li><a href="../../../index.html">Shiny Calculator</a></li><li class="dropdown"><a href="#">Metagames</a><ul class="dropdown-content"><li><a href="../hellfire-1/index.html"${config.title === 'Hellfire Memorial I' ? ' class="active"' : ''}>Hellfire Memorial I</a></li><li><a href="../hellfire-2/index.html"${config.title === 'Hellfire Celebrational I' ? ' class="active"' : ''}>Hellfire Celebrational I</a></li></ul></li></ul></nav>
     <div class="page-container"><div class="content-wrap"><div class="wide-container">
       <div class="intro-card"><h1>${config.title}</h1><p>${config.description || ''}</p>${config.highlights.length ? `<ul>${config.highlights.map((highlight) => `<li>${highlight}</li>`).join('')}</ul>` : ''}${config.overview ? `<h2>Overview</h2><p>${config.overview}</p>` : ''}</div>
       ${config.clauses.length ? `<h2>Battle Clauses</h2>${config.clauses.map((clause) => `<div class="battle-clause-card"><div class="clause-title">${clause.title}</div><div class="clause-body">${clause.body}</div></div>`).join('')}` : ''}
