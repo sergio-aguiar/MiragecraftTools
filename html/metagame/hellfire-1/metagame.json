@@ -1,0 +1,25 @@
+{
+  "title": "Hellfire Memorial I",
+  "description": "Welcome to the Hellfire Memorial format! In this page, you can expect to see:",
+  "highlights": [
+    "A quick overview of the format and why it exists;",
+    "The list of battle clauses in effect;",
+    "The list of banned held items;",
+    "The list of allowed Pokémon."
+  ],
+  "overview": "Hellfire Memorial is a custom competitive format designed to pay homage to Hellfire's long history at MirageCraft.<br>The main constraint of this format is the fact that all teams must include, exclusively, Pokémon previously used by Hellfire members (or deeply connected) in competitive play (gyms, tournaments, etc.).<br>All battles are to be held as Double Battles.",
+  "clauses": [
+    {
+      "title": "Endless Battle Clause",
+      "body": "<p>Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.</p><p><strong>Example:</strong> A Slowbro can create an endless battle by having a Leppa Berry equipped and the moves Recycle, Heal Pulse, Slack Off and Block. You are not allowed to trap an opposing Pokémon and force an infinite battle by healing the opponent after PP stalling it.</p>"
+    },
+    {
+      "title": "Species-Form Clause",
+      "body": "<p>Players cannot use two Pokémon that share the same Pokédex number and form in the same team, <strong>unless</strong> explicitly mentioned in the Pokémon table.</p><p>Players are allowed to use two of the same Pokémon if they use different forms (if the forms are allowed).</p>"
+    }
+  ],
+  "bannedItemsFile": "hellfire-banned-items.json",
+  "heldItemsDataFile": "../../../data/held-items.json",
+  "pokemonFormatFile": "hellfire-pokemon.json",
+  "pokemonDataFile": "../../../data/all-pokemon.json"
+}

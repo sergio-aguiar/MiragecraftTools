@@ -1,0 +1,466 @@
+﻿[
+    {
+        "name":  "Venusaur",
+        "observations":  ""
+    },
+    {
+        "name":  "Charizard",
+        "observations":  "Trainers are not allowed to Mega Evolve Charizard into Charizard X in this format."
+    },
+    {
+        "name":  "Beedrill",
+        "observations":  ""
+    },
+    {
+        "name":  "Rattata",
+        "observations":  "Trainers are not allowed to use Rattata-Alola in this format."
+    },
+    {
+        "name":  "Arbok",
+        "observations":  ""
+    },
+    {
+        "name":  "Pikachu",
+        "observations":  ""
+    },
+    {
+        "name":  "Raichu",
+        "observations":  "Trainers are not allowed to use Raichu-Alola in this format."
+    },
+    {
+        "name":  "Nidoqueen",
+        "observations":  ""
+    },
+    {
+        "name":  "Nidoking",
+        "observations":  ""
+    },
+    {
+        "name":  "Clefable",
+        "observations":  ""
+    },
+    {
+        "name":  "Ninetales",
+        "observations":  "Trainers are not allowed to use Ninetales-Alola in this format."
+    },
+    {
+        "name":  "Venomoth",
+        "observations":  ""
+    },
+    {
+        "name":  "Dugtrio",
+        "observations":  "Trainers are not allowed to use Dugtrio-Alola in this format."
+    },
+    {
+        "name":  "Primeape",
+        "observations":  ""
+    },
+    {
+        "name":  "Poliwrath",
+        "observations":  ""
+    },
+    {
+        "name":  "Alakazam",
+        "observations":  "Trainers are not allowed to Mega Evolve Alakazam in this format."
+    },
+    {
+        "name":  "Machamp",
+        "observations":  ""
+    },
+    {
+        "name":  "Victreebel",
+        "observations":  ""
+    },
+    {
+        "name":  "Tentacruel",
+        "observations":  ""
+    },
+    {
+        "name":  "Golem",
+        "observations":  "Trainers are not allowed to use Golem-Alola in this format."
+    },
+    {
+        "name":  "Slowbro",
+        "observations":  "Trainers are not allowed to Mega Evolve Slowbro in this format.\u003cbr\u003eTrainers are not allowed to use Slowbro-Galar in this format."
+    },
+    {
+        "name":  "Magneton",
+        "observations":  ""
+    },
+    {
+        "name":  "Dewgong",
+        "observations":  ""
+    },
+    {
+        "name":  "Cloyster",
+        "observations":  ""
+    },
+    {
+        "name":  "Gengar",
+        "observations":  "Trainers are not allowed to Mega Evolve Gengar in this format.\u003cbr\u003eTrainers are allowed to have two Gengar on their team, simultaneously."
+    },
+    {
+        "name":  "Kangaskhan",
+        "observations":  ""
+    },
+    {
+        "name":  "Starmie",
+        "observations":  ""
+    },
+    {
+        "name":  "Gyarados",
+        "observations":  "Trainers are allowed to have two Gyarados on their team, simultaneously."
+    },
+    {
+        "name":  "Lapras",
+        "observations":  ""
+    },
+    {
+        "name":  "Ditto",
+        "observations":  ""
+    },
+    {
+        "name":  "Vaporeon",
+        "observations":  ""
+    },
+    {
+        "name":  "Jolteon",
+        "observations":  ""
+    },
+    {
+        "name":  "Snorlax",
+        "observations":  ""
+    },
+    {
+        "name":  "Dragonite",
+        "observations":  ""
+    },
+    {
+        "name":  "Crobat",
+        "observations":  ""
+    },
+    {
+        "name":  "Lanturn",
+        "observations":  ""
+    },
+    {
+        "name":  "Ampharos",
+        "observations":  ""
+    },
+    {
+        "name":  "Azumarill",
+        "observations":  ""
+    },
+    {
+        "name":  "Umbreon",
+        "observations":  ""
+    },
+    {
+        "name":  "Murkrow",
+        "observations":  ""
+    },
+    {
+        "name":  "Gligar",
+        "observations":  ""
+    },
+    {
+        "name":  "Steelix",
+        "observations":  "Trainers are not allowed to Mega Evolve Steelix in this format."
+    },
+    {
+        "name":  "Scizor",
+        "observations":  ""
+    },
+    {
+        "name":  "Skarmory",
+        "observations":  ""
+    },
+    {
+        "name":  "Kingdra",
+        "observations":  ""
+    },
+    {
+        "name":  "Tyranitar",
+        "observations":  "Trainers are not allowed to Mega Evolve Tyranitar in this format."
+    },
+    {
+        "name":  "Sceptile",
+        "observations":  ""
+    },
+    {
+        "name":  "Blaziken",
+        "observations":  ""
+    },
+    {
+        "name":  "Swampert",
+        "observations":  "Trainers are not allowed to Mega Evolve Swampert in this format."
+    },
+    {
+        "name":  "Pelipper",
+        "observations":  ""
+    },
+    {
+        "name":  "Gardevoir",
+        "observations":  ""
+    },
+    {
+        "name":  "Breloom",
+        "observations":  ""
+    },
+    {
+        "name":  "Shedinja",
+        "observations":  ""
+    },
+    {
+        "name":  "Aron",
+        "observations":  ""
+    },
+    {
+        "name":  "Aggron",
+        "observations":  "Trainers are not allowed to Mega Evolve Aggron in this format."
+    },
+    {
+        "name":  "Sharpedo",
+        "observations":  ""
+    },
+    {
+        "name":  "Wailord",
+        "observations":  ""
+    },
+    {
+        "name":  "Camerupt",
+        "observations":  ""
+    },
+    {
+        "name":  "Flygon",
+        "observations":  ""
+    },
+    {
+        "name":  "Altaria",
+        "observations":  ""
+    },
+    {
+        "name":  "Milotic",
+        "observations":  ""
+    },
+    {
+        "name":  "Salamence",
+        "observations":  "Trainers are not allowed to Mega Evolve Salamence in this format."
+    },
+    {
+        "name":  "Metagross",
+        "observations":  "Trainers are not allowed to Mega Evolve Metagross in this format."
+    },
+    {
+        "name":  "Empoleon",
+        "observations":  ""
+    },
+    {
+        "name":  "Staraptor",
+        "observations":  ""
+    },
+    {
+        "name":  "Luxray",
+        "observations":  ""
+    },
+    {
+        "name":  "Rampardos",
+        "observations":  ""
+    },
+    {
+        "name":  "Bastiodon",
+        "observations":  ""
+    },
+    {
+        "name":  "Gastrodon",
+        "observations":  ""
+    },
+    {
+        "name":  "Drifblim",
+        "observations":  ""
+    },
+    {
+        "name":  "Mismagius",
+        "observations":  ""
+    },
+    {
+        "name":  "Garchomp",
+        "observations":  "Trainers are not allowed to Mega Evolve Garchomp in this format."
+    },
+    {
+        "name":  "Lucario",
+        "observations":  "Trainers are not allowed to Mega Evolve Lucario in this format."
+    },
+    {
+        "name":  "Drapion",
+        "observations":  ""
+    },
+    {
+        "name":  "Magnezone",
+        "observations":  ""
+    },
+    {
+        "name":  "Rhyperior",
+        "observations":  ""
+    },
+    {
+        "name":  "Tangrowth",
+        "observations":  ""
+    },
+    {
+        "name":  "Electivire",
+        "observations":  ""
+    },
+    {
+        "name":  "Magmortar",
+        "observations":  ""
+    },
+    {
+        "name":  "Gliscor",
+        "observations":  ""
+    },
+    {
+        "name":  "Mamoswine",
+        "observations":  ""
+    },
+    {
+        "name":  "Gallade",
+        "observations":  "Trainers are not allowed to Mega Evolve Gallade in this format."
+    },
+    {
+        "name":  "Dusknoir",
+        "observations":  ""
+    },
+    {
+        "name":  "Froslass",
+        "observations":  ""
+    },
+    {
+        "name":  "Serperior",
+        "observations":  ""
+    },
+    {
+        "name":  "Gigalith",
+        "observations":  ""
+    },
+    {
+        "name":  "Excadrill",
+        "observations":  ""
+    },
+    {
+        "name":  "Leavanny",
+        "observations":  ""
+    },
+    {
+        "name":  "Scolipede",
+        "observations":  ""
+    },
+    {
+        "name":  "Whimsicott",
+        "observations":  ""
+    },
+    {
+        "name":  "Krookodile",
+        "observations":  ""
+    },
+    {
+        "name":  "Carracosta",
+        "observations":  ""
+    },
+    {
+        "name":  "Zoroark",
+        "observations":  "Trainers are not allowed to use Zoroark-Hisui in this format."
+    },
+    {
+        "name":  "Amoonguss",
+        "observations":  ""
+    },
+    {
+        "name":  "Ferrothorn",
+        "observations":  ""
+    },
+    {
+        "name":  "Eelektross",
+        "observations":  ""
+    },
+    {
+        "name":  "Chandelure",
+        "observations":  ""
+    },
+    {
+        "name":  "Haxorus",
+        "observations":  ""
+    },
+    {
+        "name":  "Golurk",
+        "observations":  ""
+    },
+    {
+        "name":  "Bisharp",
+        "observations":  ""
+    },
+    {
+        "name":  "Hydreigon",
+        "observations":  ""
+    },
+    {
+        "name":  "Volcarona",
+        "observations":  ""
+    },
+    {
+        "name":  "Sylveon",
+        "observations":  ""
+    },
+    {
+        "name":  "Ribombee",
+        "observations":  ""
+    },
+    {
+        "name":  "Toxapex",
+        "observations":  ""
+    },
+    {
+        "name":  "Kommo-o",
+        "observations":  ""
+    },
+    {
+        "name":  "Corviknight",
+        "observations":  ""
+    },
+    {
+        "name":  "Grimmsnarl",
+        "observations":  ""
+    },
+    {
+        "name":  "Dragapult",
+        "observations":  ""
+    },
+    {
+        "name":  "Basculegion",
+        "observations":  "Trainers are not allowed to use Basculegion-F in this format."
+    },
+    {
+        "name":  "Meowscarada",
+        "observations":  ""
+    },
+    {
+        "name":  "Garganacl",
+        "observations":  ""
+    },
+    {
+        "name":  "Palafin",
+        "observations":  ""
+    },
+    {
+        "name":  "Clodsire",
+        "observations":  ""
+    },
+    {
+        "name":  "Archaludon",
+        "observations":  ""
+    },
+    {
+        "name":  "Hydrapple",
+        "observations":  ""
+    }
+]

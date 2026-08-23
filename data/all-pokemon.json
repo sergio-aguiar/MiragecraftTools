@@ -1,13 +1,13 @@
-[
+﻿[
     {
         "name": "Venusaur",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-        "types": ["Grass", "Poison"],
+        "types": ["Grass","Poison"],
         "abilities": {
             "regular": ["Overgrow"],
             "hidden": "Chlorophyll"
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 82,
@@ -15,13 +15,12 @@
             "SpA": 100,
             "SpD": 100,
             "Spe": 80
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Charizard",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-        "types": ["Fire", "Flying"],
+        "types": ["Fire","Flying"],
         "abilities": {
             "regular": ["Blaze"],
             "hidden": "Solar Power"
@@ -34,13 +33,12 @@
             "SpA": 109,
             "SpD": 85,
             "Spe": 100
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Charizard into Charizard X in this format."
-  },
-  {
+        }
+    },
+    {
         "name": "Beedrill",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
-        "types": ["Bug", "Poison"],
+        "types": ["Bug","Poison"],
         "abilities": {
             "regular": ["Swarm"],
             "hidden": "Sniper"
@@ -53,18 +51,17 @@
             "SpA": 45,
             "SpD": 80,
             "Spe": 75
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Rattata",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
         "types": ["Normal"],
         "abilities": {
-            "regular": ["Run Away", "Guts"],
+            "regular": ["Run Away","Guts"],
             "hidden": "Hustle"
         },
-        "stats": 
+        "stats":
         {
             "HP": 30,
             "Atk": 56,
@@ -72,18 +69,17 @@
             "SpA": 25,
             "SpD": 35,
             "Spe": 72
-        },
-        "observations": "Trainers are not allowed to use Rattata-Alola in this format."
-  },
-  {
+        }
+    },
+    {
         "name": "Arbok",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
         "types": ["Poison"],
         "abilities": {
-            "regular": ["Intimidate", "Shed Skin"],
+            "regular": ["Intimidate","Shed Skin"],
             "hidden": "Unnerve"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 95,
@@ -91,10 +87,9 @@
             "SpA": 65,
             "SpD": 79,
             "Spe": 80
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Pikachu",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
         "types": ["Electric"],
@@ -102,7 +97,7 @@
             "regular": ["Static"],
             "hidden": "Lightning Rod"
         },
-        "stats": 
+        "stats":
         {
             "HP": 35,
             "Atk": 55,
@@ -110,10 +105,9 @@
             "SpA": 50,
             "SpD": 50,
             "Spe": 90
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Raichu",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
         "types": ["Electric"],
@@ -129,15 +123,14 @@
             "SpA": 90,
             "SpD": 80,
             "Spe": 110
-        },
-        "observations": "Trainers are not allowed to use Raichu-Alola in this format."
-  },
-  {
+        }
+    },
+    {
         "name": "Nidoqueen",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
-        "types": ["Poison", "Ground"],
+        "types": ["Poison","Ground"],
         "abilities": {
-            "regular": ["Poison Point", "Rivalry"],
+            "regular": ["Poison Point","Rivalry"],
             "hidden": "Sheer Force"
         },
         "stats":
@@ -148,15 +141,14 @@
             "SpA": 75,
             "SpD": 85,
             "Spe": 76
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Nidoking",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
-        "types": ["Poison", "Ground"],
+        "types": ["Poison","Ground"],
         "abilities": {
-            "regular": ["Poison Point", "Rivalry"],
+            "regular": ["Poison Point","Rivalry"],
             "hidden": "Sheer Force"
         },
         "stats":
@@ -167,15 +159,14 @@
             "SpA": 85,
             "SpD": 75,
             "Spe": 85
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Clefable",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
         "types": ["Fairy"],
         "abilities": {
-            "regular": ["Cute Charm", "Magic Guard"],
+            "regular": ["Cute Charm","Magic Guard"],
             "hidden": "Unaware"
         },
         "stats":
@@ -186,10 +177,9 @@
             "SpA": 95,
             "SpD": 90,
             "Spe": 60
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Ninetales",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
         "types": ["Fire"],
@@ -197,7 +187,7 @@
             "regular": ["Flash Fire"],
             "hidden": "Drought"
         },
-        "stats": 
+        "stats":
         {
             "HP": 73,
             "Atk": 76,
@@ -205,18 +195,17 @@
             "SpA": 81,
             "SpD": 100,
             "Spe": 100
-        },
-        "observations": "Trainers are not allowed to use Ninetales-Alola in this format."
-  },
-  {
+        }
+    },
+    {
         "name": "Venomoth",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
-        "types": ["Bug", "Poison"],
+        "types": ["Bug","Poison"],
         "abilities": {
-            "regular": ["Shield Dust", "Tinted Lens"],
+            "regular": ["Shield Dust","Tinted Lens"],
             "hidden": "Wonder Skin"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 65,
@@ -224,18 +213,17 @@
             "SpA": 90,
             "SpD": 75,
             "Spe": 90
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Dugtrio",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
         "types": ["Ground"],
         "abilities": {
-            "regular": ["Sand Veil", "Arena Trap"],
+            "regular": ["Sand Veil","Arena Trap"],
             "hidden": "Sand Force"
         },
-        "stats": 
+        "stats":
         {
             "HP": 35,
             "Atk": 100,
@@ -243,18 +231,17 @@
             "SpA": 50,
             "SpD": 70,
             "Spe": 120
-        },
-        "observations": "Trainers are not allowed to use Dugtrio-Alola in this format."
-  },
-  {
+        }
+    },
+    {
         "name": "Primeape",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
         "types": ["Fighting"],
         "abilities": {
-            "regular": ["Vital Spirit", "Anger Point"],
+            "regular": ["Vital Spirit","Anger Point"],
             "hidden": "Defiant"
         },
-        "stats": 
+        "stats":
         {
             "HP": 65,
             "Atk": 105,
@@ -262,18 +249,17 @@
             "SpA": 60,
             "SpD": 70,
             "Spe": 95
-        },
-        "observations": ""
-  },
-  {
+        }
+    },
+    {
         "name": "Poliwrath",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
-        "types": ["Water", "Fighting"],
+        "types": ["Water","Fighting"],
         "abilities": {
-            "regular": ["Water Absorb", "Damp"],
+            "regular": ["Water Absorb","Damp"],
             "hidden": "Swift Swim"
         },
-        "stats": 
+        "stats":
         {
             "HP": 90,
             "Atk": 95,
@@ -281,18 +267,17 @@
             "SpA": 70,
             "SpD": 90,
             "Spe": 70
-        },
-        "observations": ""
-  },
+        }
+    },
     {
         "name": "Alakazam",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
         "types": ["Psychic"],
         "abilities": {
-            "regular": ["Synchronize", "Inner Focus"],
+            "regular": ["Synchronize","Inner Focus"],
             "hidden": "Magic Guard"
         },
-        "stats": 
+        "stats":
         {
             "HP": 55,
             "Atk": 50,
@@ -300,18 +285,17 @@
             "SpA": 135,
             "SpD": 95,
             "Spe": 120
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Alakazam in this format."
+        }
     },
     {
         "name": "Machamp",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
         "types": ["Fighting"],
         "abilities": {
-            "regular": ["Guts", "No Guard"],
+            "regular": ["Guts","No Guard"],
             "hidden": "Steadfast"
         },
-        "stats": 
+        "stats":
         {
             "HP": 90,
             "Atk": 130,
@@ -319,18 +303,17 @@
             "SpA": 65,
             "SpD": 85,
             "Spe": 55
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Victreebel",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
-        "types": ["Grass", "Poison"],
+        "types": ["Grass","Poison"],
         "abilities": {
             "regular": ["Chlorophyll"],
             "hidden": "Gluttony"
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 105,
@@ -338,18 +321,17 @@
             "SpA": 100,
             "SpD": 70,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Tentacruel",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
-        "types": ["Water", "Poison"],
+        "types": ["Water","Poison"],
         "abilities": {
-            "regular": ["Clear Body", "Liquid Ooze"],
+            "regular": ["Clear Body","Liquid Ooze"],
             "hidden": "Rain Dish"
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 70,
@@ -357,18 +339,17 @@
             "SpA": 80,
             "SpD": 120,
             "Spe": 100
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Golem",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
-        "types": ["Rock", "Ground"],
+        "types": ["Rock","Ground"],
         "abilities": {
-            "regular": ["Rock Head", "Sturdy"],
+            "regular": ["Rock Head","Sturdy"],
             "hidden": "Sand Veil"
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 120,
@@ -376,18 +357,17 @@
             "SpA": 55,
             "SpD": 65,
             "Spe": 45
-        },
-        "observations": "Trainers are not allowed to use Golem-Alola in this format."
+        }
     },
     {
         "name": "Slowbro",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
-        "types": ["Water", "Psychic"],
+        "types": ["Water","Psychic"],
         "abilities": {
-            "regular": ["Oblivious", "Own Tempo"],
+            "regular": ["Oblivious","Own Tempo"],
             "hidden": "Regenerator"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 75,
@@ -395,18 +375,17 @@
             "SpA": 100,
             "SpD": 80,
             "Spe": 30
-        },
-        "observations":  "Trainers are not allowed to Mega Evolve Slowbro in this format.<br>Trainers are not allowed to use Slowbro-Galar in this format."
+        }
     },
     {
         "name": "Magneton",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
-        "types": ["Electric", "Steel"],
+        "types": ["Electric","Steel"],
         "abilities": {
-            "regular": ["Magnet Pull", "Sturdy"],
+            "regular": ["Magnet Pull","Sturdy"],
             "hidden": "Analytic"
         },
-        "stats": 
+        "stats":
         {
             "HP": 50,
             "Atk": 60,
@@ -414,18 +393,17 @@
             "SpA": 120,
             "SpD": 70,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Dewgong",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
-        "types": ["Water", "Ice"],
+        "types": ["Water","Ice"],
         "abilities": {
-            "regular": ["Thick Fat", "Hydration"],
+            "regular": ["Thick Fat","Hydration"],
             "hidden": "Ice Body"
         },
-        "stats": 
+        "stats":
         {
             "HP": 90,
             "Atk": 70,
@@ -433,18 +411,17 @@
             "SpA": 70,
             "SpD": 95,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Cloyster",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
-        "types": ["Water", "Ice"],
+        "types": ["Water","Ice"],
         "abilities": {
-            "regular": ["Shell Armor", "Skill Link"],
+            "regular": ["Shell Armor","Skill Link"],
             "hidden": "Overcoat"
         },
-        "stats": 
+        "stats":
         {
             "HP": 50,
             "Atk": 95,
@@ -452,18 +429,17 @@
             "SpA": 85,
             "SpD": 45,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gengar",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
-        "types": ["Ghost", "Poison"],
+        "types": ["Ghost","Poison"],
         "abilities": {
             "regular": ["Cursed Body"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 65,
@@ -471,18 +447,17 @@
             "SpA": 130,
             "SpD": 75,
             "Spe": 110
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Gengar in this format.<br>Trainers are allowed to have two Gengar on their team, simultaneously."
+        }
     },
     {
         "name": "Kangaskhan",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
         "types": ["Normal"],
         "abilities": {
-            "regular": ["Early Bird", "Scrappy"],
+            "regular": ["Early Bird","Scrappy"],
             "hidden": "Inner Focus"
         },
-        "stats": 
+        "stats":
         {
             "HP": 105,
             "Atk": 95,
@@ -490,18 +465,17 @@
             "SpA": 40,
             "SpD": 80,
             "Spe": 90
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Starmie",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
-        "types": ["Water", "Psychic"],
+        "types": ["Water","Psychic"],
         "abilities": {
-            "regular": ["Illuminate", "Natural Cure"],
+            "regular": ["Illuminate","Natural Cure"],
             "hidden": "Analytic"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 75,
@@ -509,18 +483,17 @@
             "SpA": 100,
             "SpD": 85,
             "Spe": 115
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gyarados",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
-        "types": ["Water", "Flying"],
+        "types": ["Water","Flying"],
         "abilities": {
             "regular": ["Intimidate"],
             "hidden": "Moxie"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 125,
@@ -528,18 +501,17 @@
             "SpA": 60,
             "SpD": 100,
             "Spe": 81
-        },
-        "observations": "Trainers are allowed to have two Gyarados on their team, simultaneously."
+        }
     },
     {
         "name": "Lapras",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
-        "types": ["Water", "Ice"],
+        "types": ["Water","Ice"],
         "abilities": {
-            "regular": ["Water Absorb", "Shell Armor"],
+            "regular": ["Water Absorb","Shell Armor"],
             "hidden": "Hydration"
         },
-        "stats": 
+        "stats":
         {
             "HP": 130,
             "Atk": 85,
@@ -547,8 +519,7 @@
             "SpA": 85,
             "SpD": 95,
             "Spe": 60
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Ditto",
@@ -558,7 +529,7 @@
             "regular": ["Limber"],
             "hidden": "Imposter"
         },
-        "stats": 
+        "stats":
         {
             "HP": 48,
             "Atk": 48,
@@ -566,8 +537,7 @@
             "SpA": 48,
             "SpD": 48,
             "Spe": 48
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Vaporeon",
@@ -577,7 +547,7 @@
             "regular": ["Water Absorb"],
             "hidden": "Hydration"
         },
-        "stats": 
+        "stats":
         {
             "HP": 130,
             "Atk": 65,
@@ -585,8 +555,7 @@
             "SpA": 110,
             "SpD": 95,
             "Spe": 65
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Jolteon",
@@ -596,7 +565,7 @@
             "regular": ["Volt Absorb"],
             "hidden": "Quick Feet"
         },
-        "stats": 
+        "stats":
         {
             "HP": 65,
             "Atk": 65,
@@ -604,18 +573,17 @@
             "SpA": 110,
             "SpD": 95,
             "Spe": 130
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Snorlax",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
         "types": ["Normal"],
         "abilities": {
-            "regular": ["Immunity", "Thick Fat"],
+            "regular": ["Immunity","Thick Fat"],
             "hidden": "Gluttony"
         },
-        "stats": 
+        "stats":
         {
             "HP": 160,
             "Atk": 110,
@@ -623,18 +591,17 @@
             "SpA": 65,
             "SpD": 110,
             "Spe": 30
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Dragonite",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
-        "types": ["Dragon", "Flying"],
+        "types": ["Dragon","Flying"],
         "abilities": {
             "regular": ["Inner Focus"],
             "hidden": "Multiscale"
         },
-        "stats": 
+        "stats":
         {
             "HP": 91,
             "Atk": 134,
@@ -642,18 +609,17 @@
             "SpA": 100,
             "SpD": 100,
             "Spe": 80
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Crobat",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
-        "types": ["Poison", "Flying"],
+        "types": ["Poison","Flying"],
         "abilities": {
             "regular": ["Inner Focus"],
             "hidden": "Infiltrator"
         },
-        "stats": 
+        "stats":
         {
             "HP": 85,
             "Atk": 90,
@@ -661,18 +627,17 @@
             "SpA": 70,
             "SpD": 80,
             "Spe": 130
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Lanturn",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
-        "types": ["Water", "Electric"],
+        "types": ["Water","Electric"],
         "abilities": {
-            "regular": ["Volt Absorb", "Illuminate"],
+            "regular": ["Volt Absorb","Illuminate"],
             "hidden": "Water Absorb"
         },
-        "stats": 
+        "stats":
         {
             "HP": 125,
             "Atk": 58,
@@ -680,8 +645,7 @@
             "SpA": 76,
             "SpD": 76,
             "Spe": 67
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Ampharos",
@@ -691,7 +655,7 @@
             "regular": ["Static"],
             "hidden": "Plus"
         },
-        "stats": 
+        "stats":
         {
             "HP": 90,
             "Atk": 75,
@@ -699,18 +663,17 @@
             "SpA": 115,
             "SpD": 90,
             "Spe": 55
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Azumarill",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
-        "types": ["Water", "Fairy"],
+        "types": ["Water","Fairy"],
         "abilities": {
-            "regular": ["Thick Fat", "Huge Power"],
+            "regular": ["Thick Fat","Huge Power"],
             "hidden": "Sap Sipper"
         },
-        "stats": 
+        "stats":
         {
             "HP": 100,
             "Atk": 50,
@@ -718,8 +681,7 @@
             "SpA": 60,
             "SpD": 80,
             "Spe": 50
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Umbreon",
@@ -729,7 +691,7 @@
             "regular": ["Synchronize"],
             "hidden": "Inner Focus"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 65,
@@ -737,18 +699,17 @@
             "SpA": 60,
             "SpD": 130,
             "Spe": 65
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Murkrow",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
-        "types": ["Dark", "Flying"],
+        "types": ["Dark","Flying"],
         "abilities": {
-            "regular": ["Insomnia", "Super Luck"],
+            "regular": ["Insomnia","Super Luck"],
             "hidden": "Prankster"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 85,
@@ -756,18 +717,17 @@
             "SpA": 85,
             "SpD": 42,
             "Spe": 91
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gligar",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
-        "types": ["Ground", "Flying"],
+        "types": ["Ground","Flying"],
         "abilities": {
-            "regular": ["Hyper Cutter", "Sand Veil"],
+            "regular": ["Hyper Cutter","Sand Veil"],
             "hidden": "Immunity"
         },
-        "stats": 
+        "stats":
         {
             "HP": 65,
             "Atk": 75,
@@ -775,18 +735,17 @@
             "SpA": 35,
             "SpD": 65,
             "Spe": 85
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Steelix",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
-        "types": ["Steel", "Ground"],
+        "types": ["Steel","Ground"],
         "abilities": {
-            "regular": ["Rock Head", "Sturdy"],
+            "regular": ["Rock Head","Sturdy"],
             "hidden": "Sheer Force"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 85,
@@ -794,18 +753,17 @@
             "SpA": 55,
             "SpD": 65,
             "Spe": 30
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Steelix in this format."
+        }
     },
     {
         "name": "Scizor",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
-        "types": ["Bug", "Steel"],
+        "types": ["Bug","Steel"],
         "abilities": {
-            "regular": ["Swarm", "Technician"],
+            "regular": ["Swarm","Technician"],
             "hidden": "Light Metal"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 130,
@@ -813,18 +771,17 @@
             "SpA": 55,
             "SpD": 80,
             "Spe": 65
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Skarmory",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
-        "types": ["Steel", "Flying"],
+        "types": ["Steel","Flying"],
         "abilities": {
-            "regular": ["Keen Eye", "Sturdy"],
+            "regular": ["Keen Eye","Sturdy"],
             "hidden": "Weak Armor"
         },
-        "stats": 
+        "stats":
         {
             "HP": 65,
             "Atk": 80,
@@ -832,18 +789,17 @@
             "SpA": 40,
             "SpD": 70,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Kingdra",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
-        "types": ["Water", "Dragon"],
+        "types": ["Water","Dragon"],
         "abilities": {
-            "regular": ["Swift Swim", "Sniper"],
+            "regular": ["Swift Swim","Sniper"],
             "hidden": "Damp"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 95,
@@ -851,18 +807,17 @@
             "SpA": 95,
             "SpD": 95,
             "Spe": 85
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Tyranitar",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
-        "types": ["Rock", "Dark"],
+        "types": ["Rock","Dark"],
         "abilities": {
             "regular": ["Sand Stream"],
             "hidden": "Unnerve"
         },
-        "stats": 
+        "stats":
         {
             "HP": 100,
             "Atk": 134,
@@ -870,8 +825,7 @@
             "SpA": 95,
             "SpD": 100,
             "Spe": 61
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Tyranitar in this format."
+        }
     },
     {
         "name": "Sceptile",
@@ -881,7 +835,7 @@
             "regular": ["Overgrow"],
             "hidden": "Unburden"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 85,
@@ -889,18 +843,17 @@
             "SpA": 105,
             "SpD": 85,
             "Spe": 120
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Blaziken",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
-        "types": ["Fire", "Fighting"],
+        "types": ["Fire","Fighting"],
         "abilities": {
             "regular": ["Blaze"],
             "hidden": "Speed Boost"
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 120,
@@ -908,18 +861,17 @@
             "SpA": 110,
             "SpD": 70,
             "Spe": 80
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Swampert",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
-        "types": ["Water", "Ground"],
+        "types": ["Water","Ground"],
         "abilities": {
             "regular": ["Torrent"],
             "hidden": "Damp"
         },
-        "stats": 
+        "stats":
         {
             "HP": 100,
             "Atk": 110,
@@ -927,18 +879,17 @@
             "SpA": 85,
             "SpD": 90,
             "Spe": 60
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Swampert in this format."
+        }
     },
     {
         "name": "Pelipper",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
-        "types": ["Water", "Flying"],
+        "types": ["Water","Flying"],
         "abilities": {
-            "regular": ["Keen Eye", "Drizzle"],
+            "regular": ["Keen Eye","Drizzle"],
             "hidden": "Rain Dish"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 50,
@@ -946,18 +897,17 @@
             "SpA": 95,
             "SpD": 70,
             "Spe": 65
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gardevoir",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
-        "types": ["Psychic", "Fairy"],
+        "types": ["Psychic","Fairy"],
         "abilities": {
-            "regular": ["Synchronize", "Trace"],
+            "regular": ["Synchronize","Trace"],
             "hidden": "Telepathy"
         },
-        "stats": 
+        "stats":
         {
             "HP": 68,
             "Atk": 65,
@@ -965,18 +915,17 @@
             "SpA": 125,
             "SpD": 115,
             "Spe": 80
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Breloom",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
-        "types": ["Grass", "Fighting"],
+        "types": ["Grass","Fighting"],
         "abilities": {
-            "regular": ["Effect Spore", "Poison Heal"],
+            "regular": ["Effect Spore","Poison Heal"],
             "hidden": "Technician"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 130,
@@ -984,18 +933,17 @@
             "SpA": 60,
             "SpD": 60,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Shedinja",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
-        "types": ["Bug", "Ghost"],
+        "types": ["Bug","Ghost"],
         "abilities": {
             "regular": ["Wonder Guard"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 1,
             "Atk": 90,
@@ -1003,18 +951,17 @@
             "SpA": 30,
             "SpD": 30,
             "Spe": 40
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Aron",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png",
-        "types": ["Steel", "Rock"],
+        "types": ["Steel","Rock"],
         "abilities": {
-            "regular": ["Sturdy", "Rock Head"],
+            "regular": ["Sturdy","Rock Head"],
             "hidden": "Heavy Metal"
         },
-        "stats": 
+        "stats":
         {
             "HP": 50,
             "Atk": 70,
@@ -1022,18 +969,17 @@
             "SpA": 40,
             "SpD": 40,
             "Spe": 30
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Aggron",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
-        "types": ["Steel", "Rock"],
+        "types": ["Steel","Rock"],
         "abilities": {
-            "regular": ["Sturdy", "Rock Head"],
+            "regular": ["Sturdy","Rock Head"],
             "hidden": "Heavy Metal"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 110,
@@ -1041,18 +987,17 @@
             "SpA": 60,
             "SpD": 60,
             "Spe": 50
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Aggron in this format."
+        }
     },
     {
         "name": "Sharpedo",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png",
-        "types": ["Water", "Dark"],
+        "types": ["Water","Dark"],
         "abilities": {
             "regular": ["Rough Skin"],
             "hidden": "Speed Boost"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 120,
@@ -1060,18 +1005,17 @@
             "SpA": 95,
             "SpD": 40,
             "Spe": 95
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Wailord",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png",
         "types": ["Water"],
         "abilities": {
-            "regular": ["Water Veil", "Oblivious"],
+            "regular": ["Water Veil","Oblivious"],
             "hidden": "Pressure"
         },
-        "stats": 
+        "stats":
         {
             "HP": 170,
             "Atk": 90,
@@ -1079,18 +1023,17 @@
             "SpA": 90,
             "SpD": 45,
             "Spe": 60
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Camerupt",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png",
-        "types": ["Fire", "Ground"],
+        "types": ["Fire","Ground"],
         "abilities": {
-            "regular": ["Magma Armor", "Solid Rock"],
+            "regular": ["Magma Armor","Solid Rock"],
             "hidden": "Anger Point"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 100,
@@ -1098,18 +1041,17 @@
             "SpA": 105,
             "SpD": 75,
             "Spe": 40
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Flygon",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
-        "types": ["Ground", "Dragon"],
+        "types": ["Ground","Dragon"],
         "abilities": {
             "regular": ["Levitate"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 100,
@@ -1117,18 +1059,17 @@
             "SpA": 80,
             "SpD": 80,
             "Spe": 100
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Altaria",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png",
-        "types": ["Dragon", "Flying"],
+        "types": ["Dragon","Flying"],
         "abilities": {
             "regular": ["Natural Cure"],
             "hidden": "Cloud Nine"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 70,
@@ -1136,18 +1077,17 @@
             "SpA": 70,
             "SpD": 105,
             "Spe": 80
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Milotic",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
         "types": ["Water"],
         "abilities": {
-            "regular": ["Marvel Scale", "Competitive"],
+            "regular": ["Marvel Scale","Competitive"],
             "hidden": "Cute Charm"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 60,
@@ -1155,18 +1095,17 @@
             "SpA": 100,
             "SpD": 125,
             "Spe": 81
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Salamence",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
-        "types": ["Dragon", "Flying"],
+        "types": ["Dragon","Flying"],
         "abilities": {
             "regular": ["Intimidate"],
             "hidden": "Moxie"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 135,
@@ -1174,18 +1113,17 @@
             "SpA": 110,
             "SpD": 80,
             "Spe": 100
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Salamence in this format."
+        }
     },
     {
         "name": "Metagross",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
-        "types": ["Steel", "Psychic"],
+        "types": ["Steel","Psychic"],
         "abilities": {
             "regular": ["Clear Body"],
             "hidden": "Light Metal"
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 135,
@@ -1193,18 +1131,17 @@
             "SpA": 95,
             "SpD": 90,
             "Spe": 70
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Metagross in this format."
+        }
     },
     {
         "name": "Empoleon",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png",
-        "types": ["Water", "Steel"],
+        "types": ["Water","Steel"],
         "abilities": {
             "regular": ["Torrent"],
             "hidden": "Competitive"
         },
-        "stats": 
+        "stats":
         {
             "HP": 84,
             "Atk": 86,
@@ -1212,18 +1149,17 @@
             "SpA": 111,
             "SpD": 101,
             "Spe": 60
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Staraptor",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png",
-        "types": ["Normal", "Flying"],
+        "types": ["Normal","Flying"],
         "abilities": {
             "regular": ["Intimidate"],
             "hidden": "Reckless"
         },
-        "stats": 
+        "stats":
         {
             "HP": 85,
             "Atk": 120,
@@ -1231,18 +1167,17 @@
             "SpA": 50,
             "SpD": 60,
             "Spe": 100
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Luxray",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png",
         "types": ["Electric"],
         "abilities": {
-            "regular": ["Rivalry", "Intimidate"],
+            "regular": ["Rivalry","Intimidate"],
             "hidden": "Guts"
         },
-        "stats": 
+        "stats":
         {
             "HP": 80,
             "Atk": 120,
@@ -1250,8 +1185,7 @@
             "SpA": 95,
             "SpD": 79,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Rampardos",
@@ -1261,7 +1195,7 @@
             "regular": ["Mold Breaker"],
             "hidden": "Sheer Force"
         },
-        "stats": 
+        "stats":
         {
             "HP": 97,
             "Atk": 165,
@@ -1269,18 +1203,17 @@
             "SpA": 65,
             "SpD": 50,
             "Spe": 58
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Bastiodon",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png",
-        "types": ["Rock", "Steel"],
+        "types": ["Rock","Steel"],
         "abilities": {
             "regular": ["Sturdy"],
             "hidden": "Soundproof"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 52,
@@ -1288,18 +1221,17 @@
             "SpA": 47,
             "SpD": 138,
             "Spe": 30
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gastrodon",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png",
-        "types": ["Water", "Ground"],
+        "types": ["Water","Ground"],
         "abilities": {
-            "regular": ["Sticky Hold", "Storm Drain"],
+            "regular": ["Sticky Hold","Storm Drain"],
             "hidden": "Sand Force"
         },
-        "stats": 
+        "stats":
         {
             "HP": 111,
             "Atk": 83,
@@ -1307,18 +1239,17 @@
             "SpA": 92,
             "SpD": 82,
             "Spe": 39
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Drifblim",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png",
-        "types": ["Ghost", "Flying"],
+        "types": ["Ghost","Flying"],
         "abilities": {
-            "regular": ["Aftermath", "Unburden"],
+            "regular": ["Aftermath","Unburden"],
             "hidden": "Flare Boost"
         },
-        "stats": 
+        "stats":
         {
             "HP": 150,
             "Atk": 80,
@@ -1326,8 +1257,7 @@
             "SpA": 90,
             "SpD": 54,
             "Spe": 80
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Mismagius",
@@ -1337,7 +1267,7 @@
             "regular": ["Levitate"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 60,
@@ -1345,18 +1275,17 @@
             "SpA": 105,
             "SpD": 105,
             "Spe": 105
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Garchomp",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png",
-        "types": ["Dragon", "Ground"],
+        "types": ["Dragon","Ground"],
         "abilities": {
             "regular": ["Sand Veil"],
             "hidden": "Rough Skin"
         },
-        "stats": 
+        "stats":
         {
             "HP": 108,
             "Atk": 130,
@@ -1364,18 +1293,17 @@
             "SpA": 80,
             "SpD": 85,
             "Spe": 102
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Garchomp in this format."
+        }
     },
     {
         "name": "Lucario",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
-        "types": ["Fighting", "Steel"],
+        "types": ["Fighting","Steel"],
         "abilities": {
-            "regular": ["Steadfast", "Inner Focus"],
+            "regular": ["Steadfast","Inner Focus"],
             "hidden": "Justified"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 110,
@@ -1383,18 +1311,17 @@
             "SpA": 115,
             "SpD": 70,
             "Spe": 90
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Lucario in this format."
+        }
     },
     {
         "name": "Drapion",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png",
-        "types": ["Poison", "Dark"],
+        "types": ["Poison","Dark"],
         "abilities": {
-            "regular": ["Battle Armor", "Sniper"],
+            "regular": ["Battle Armor","Sniper"],
             "hidden": "Keen Eye"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 90,
@@ -1402,18 +1329,17 @@
             "SpA": 60,
             "SpD": 75,
             "Spe": 95
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Magnezone",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png",
-        "types": ["Electric", "Steel"],
+        "types": ["Electric","Steel"],
         "abilities": {
-            "regular": ["Magnet Pull", "Sturdy"],
+            "regular": ["Magnet Pull","Sturdy"],
             "hidden": "Analytic"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 70,
@@ -1421,18 +1347,17 @@
             "SpA": 130,
             "SpD": 90,
             "Spe": 60
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Rhyperior",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png",
-        "types": ["Ground", "Rock"],
+        "types": ["Ground","Rock"],
         "abilities": {
-            "regular": ["Lightning Rod", "Solid Rock"],
+            "regular": ["Lightning Rod","Solid Rock"],
             "hidden": "Reckless"
         },
-        "stats": 
+        "stats":
         {
             "HP": 115,
             "Atk": 140,
@@ -1440,18 +1365,17 @@
             "SpA": 55,
             "SpD": 55,
             "Spe": 40
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Tangrowth",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png",
         "types": ["Grass"],
         "abilities": {
-            "regular": ["Chlorophyll", "Leaf Guard"],
+            "regular": ["Chlorophyll","Leaf Guard"],
             "hidden": "Regenerator"
         },
-        "stats": 
+        "stats":
         {
             "HP": 100,
             "Atk": 100,
@@ -1459,8 +1383,7 @@
             "SpA": 110,
             "SpD": 50,
             "Spe": 50
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Electivire",
@@ -1470,7 +1393,7 @@
             "regular": ["Motor Drive"],
             "hidden": "Vital Spirit"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 123,
@@ -1478,8 +1401,7 @@
             "SpA": 95,
             "SpD": 85,
             "Spe": 95
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Magmortar",
@@ -1489,7 +1411,7 @@
             "regular": ["Flame Body"],
             "hidden": "Vital Spirit"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 95,
@@ -1497,18 +1419,17 @@
             "SpA": 125,
             "SpD": 95,
             "Spe": 83
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gliscor",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png",
-        "types": ["Ground", "Flying"],
+        "types": ["Ground","Flying"],
         "abilities": {
-            "regular": ["Hyper Cutter", "Sand Veil"],
+            "regular": ["Hyper Cutter","Sand Veil"],
             "hidden": "Poison Heal"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 95,
@@ -1516,18 +1437,17 @@
             "SpA": 45,
             "SpD": 75,
             "Spe": 95
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Mamoswine",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png",
-        "types": ["Ice", "Ground"],
+        "types": ["Ice","Ground"],
         "abilities": {
-            "regular": ["Oblivious", "Snow Cloak"],
+            "regular": ["Oblivious","Snow Cloak"],
             "hidden": "Thick Fat"
         },
-        "stats": 
+        "stats":
         {
             "HP": 110,
             "Atk": 130,
@@ -1535,18 +1455,17 @@
             "SpA": 70,
             "SpD": 60,
             "Spe": 80
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gallade",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png",
-        "types": ["Psychic", "Fighting"],
+        "types": ["Psychic","Fighting"],
         "abilities": {
-            "regular": ["Steadfast", "Sharpness"],
+            "regular": ["Steadfast","Sharpness"],
             "hidden": "Justified"
         },
-        "stats": 
+        "stats":
         {
             "HP": 68,
             "Atk": 125,
@@ -1554,8 +1473,7 @@
             "SpA": 65,
             "SpD": 115,
             "Spe": 80
-        },
-        "observations": "Trainers are not allowed to Mega Evolve Gallade in this format."
+        }
     },
     {
         "name": "Dusknoir",
@@ -1565,7 +1483,7 @@
             "regular": ["Pressure"],
             "hidden": "Frisk"
         },
-        "stats": 
+        "stats":
         {
             "HP": 45,
             "Atk": 100,
@@ -1573,18 +1491,17 @@
             "SpA": 65,
             "SpD": 135,
             "Spe": 45
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Froslass",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png",
-        "types": ["Ice", "Ghost"],
+        "types": ["Ice","Ghost"],
         "abilities": {
             "regular": ["Snow Cloak"],
             "hidden": "Cursed Body"
         },
-        "stats": 
+        "stats":
         {
             "HP": 70,
             "Atk": 80,
@@ -1592,8 +1509,7 @@
             "SpA": 80,
             "SpD": 70,
             "Spe": 110
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Serperior",
@@ -1603,7 +1519,7 @@
             "regular": ["Overgrow"],
             "hidden": "Contrary"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 75,
@@ -1611,18 +1527,17 @@
             "SpA": 75,
             "SpD": 95,
             "Spe": 113
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Gigalith",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png",
         "types": ["Rock"],
         "abilities": {
-            "regular": ["Sturdy", "Sand Stream"],
+            "regular": ["Sturdy","Sand Stream"],
             "hidden": "Sand Force"
         },
-        "stats": 
+        "stats":
         {
             "HP": 85,
             "Atk": 135,
@@ -1630,18 +1545,17 @@
             "SpA": 60,
             "SpD": 80,
             "Spe": 25
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Excadrill",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png",
-        "types": ["Ground", "Steel"],
+        "types": ["Ground","Steel"],
         "abilities": {
-            "regular": ["Sand Rush", "Sand Force"],
+            "regular": ["Sand Rush","Sand Force"],
             "hidden": "Mold Breaker"
         },
-        "stats": 
+        "stats":
         {
             "HP": 110,
             "Atk": 135,
@@ -1649,18 +1563,17 @@
             "SpA": 50,
             "SpD": 65,
             "Spe": 88
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Leavanny",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png",
-        "types": ["Bug", "Grass"],
+        "types": ["Bug","Grass"],
         "abilities": {
-            "regular": ["Swarm", "Chlorophyll"],
+            "regular": ["Swarm","Chlorophyll"],
             "hidden": "Overcoat"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 103,
@@ -1668,18 +1581,17 @@
             "SpA": 70,
             "SpD": 80,
             "Spe": 92
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Scolipede",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png",
-        "types": ["Bug", "Poison"],
+        "types": ["Bug","Poison"],
         "abilities": {
-            "regular": ["Poison Point", "Swarm"],
+            "regular": ["Poison Point","Swarm"],
             "hidden": "Speed Boost"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 100,
@@ -1687,18 +1599,17 @@
             "SpA": 55,
             "SpD": 69,
             "Spe": 112
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Whimsicott",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png",
-        "types": ["Grass", "Fairy"],
+        "types": ["Grass","Fairy"],
         "abilities": {
-            "regular": ["Prankster", "Infiltrator"],
+            "regular": ["Prankster","Infiltrator"],
             "hidden": "Chlorophyll"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 67,
@@ -1706,18 +1617,17 @@
             "SpA": 77,
             "SpD": 75,
             "Spe": 116
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Krookodile",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
-        "types": ["Ground", "Dark"],
+        "types": ["Ground","Dark"],
         "abilities": {
-            "regular": ["Intimidate", "Moxie"],
+            "regular": ["Intimidate","Moxie"],
             "hidden": "Anger Point"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 117,
@@ -1725,18 +1635,17 @@
             "SpA": 65,
             "SpD": 70,
             "Spe": 92
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Carracosta",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png",
-        "types": ["Water", "Rock"],
+        "types": ["Water","Rock"],
         "abilities": {
-            "regular": ["Solid Rock", "Sturdy"],
+            "regular": ["Solid Rock","Sturdy"],
             "hidden": "Swift Swim"
         },
-        "stats": 
+        "stats":
         {
             "HP": 74,
             "Atk": 108,
@@ -1744,8 +1653,7 @@
             "SpA": 83,
             "SpD": 65,
             "Spe": 32
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Zoroark",
@@ -1755,7 +1663,7 @@
             "regular": ["Illusion"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 105,
@@ -1763,18 +1671,17 @@
             "SpA": 120,
             "SpD": 60,
             "Spe": 105
-        },
-        "observations": "Trainers are not allowed to use Zoroark-Hisui in this format."
+        }
     },
     {
         "name": "Amoonguss",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png",
-        "types": ["Grass", "Poison"],
+        "types": ["Grass","Poison"],
         "abilities": {
             "regular": ["Effect Spore"],
             "hidden": "Regenerator"
         },
-        "stats": 
+        "stats":
         {
             "HP": 114,
             "Atk": 85,
@@ -1782,18 +1689,17 @@
             "SpA": 85,
             "SpD": 80,
             "Spe": 30
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Ferrothorn",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
-        "types": ["Grass", "Steel"],
+        "types": ["Grass","Steel"],
         "abilities": {
             "regular": ["Iron Barbs"],
             "hidden": "Anticipation"
         },
-        "stats": 
+        "stats":
         {
             "HP": 74,
             "Atk": 94,
@@ -1801,8 +1707,7 @@
             "SpA": 54,
             "SpD": 116,
             "Spe": 20
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Eelektross",
@@ -1812,7 +1717,7 @@
             "regular": ["Levitate"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 85,
             "Atk": 115,
@@ -1820,15 +1725,14 @@
             "SpA": 105,
             "SpD": 80,
             "Spe": 50
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Chandelure",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png",
-        "types": ["Ghost", "Fire"],
+        "types": ["Ghost","Fire"],
         "abilities": {
-            "regular": ["Flash Fire", "Flame Body"],
+            "regular": ["Flash Fire","Flame Body"],
             "hidden": "Infiltrator"
         },
         "stats":
@@ -1839,18 +1743,17 @@
             "SpA": 145,
             "SpD": 90,
             "Spe": 80
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Haxorus",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png",
         "types": ["Dragon"],
         "abilities": {
-            "regular": ["Rivalry", "Mold Breaker"],
+            "regular": ["Rivalry","Mold Breaker"],
             "hidden": "Unnerve"
         },
-        "stats": 
+        "stats":
         {
             "HP": 76,
             "Atk": 147,
@@ -1858,18 +1761,17 @@
             "SpA": 60,
             "SpD": 70,
             "Spe": 97
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Golurk",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png",
-        "types": ["Ground", "Ghost"],
+        "types": ["Ground","Ghost"],
         "abilities": {
-            "regular": ["Iron Fist", "Klutz"],
+            "regular": ["Iron Fist","Klutz"],
             "hidden": "No Guard"
         },
-        "stats": 
+        "stats":
         {
             "HP": 89,
             "Atk": 124,
@@ -1877,18 +1779,17 @@
             "SpA": 55,
             "SpD": 80,
             "Spe": 55
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Bisharp",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png",
-        "types": ["Dark", "Steel"],
+        "types": ["Dark","Steel"],
         "abilities": {
-            "regular": ["Defiant", "Inner Focus"],
+            "regular": ["Defiant","Inner Focus"],
             "hidden": "Pressure"
         },
-        "stats": 
+        "stats":
         {
             "HP": 65,
             "Atk": 125,
@@ -1896,18 +1797,17 @@
             "SpA": 60,
             "SpD": 70,
             "Spe": 70
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Hydreigon",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png",
-        "types": ["Dark", "Dragon"],
+        "types": ["Dark","Dragon"],
         "abilities": {
             "regular": ["Levitate"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 92,
             "Atk": 105,
@@ -1915,18 +1815,17 @@
             "SpA": 125,
             "SpD": 90,
             "Spe": 98
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Volcarona",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png",
-        "types": ["Bug", "Fire"],
+        "types": ["Bug","Fire"],
         "abilities": {
             "regular": ["Flame Body"],
             "hidden": "Swarm"
         },
-        "stats": 
+        "stats":
         {
             "HP": 85,
             "Atk": 60,
@@ -1934,8 +1833,7 @@
             "SpA": 135,
             "SpD": 105,
             "Spe": 100
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Sylveon",
@@ -1945,7 +1843,7 @@
             "regular": ["Cute Charm"],
             "hidden": "Pixilate"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 65,
@@ -1953,18 +1851,17 @@
             "SpA": 110,
             "SpD": 130,
             "Spe": 60
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Ribombee",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png",
-        "types": ["Bug", "Fairy"],
+        "types": ["Bug","Fairy"],
         "abilities": {
-            "regular": ["Honey Gather", "Shield Dust"],
+            "regular": ["Honey Gather","Shield Dust"],
             "hidden": "Sweet Veil"
         },
-        "stats": 
+        "stats":
         {
             "HP": 60,
             "Atk": 55,
@@ -1972,18 +1869,17 @@
             "SpA": 95,
             "SpD": 70,
             "Spe": 124
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Toxapex",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png",
-        "types": ["Water", "Poison"],
+        "types": ["Water","Poison"],
         "abilities": {
-            "regular": ["Merciless", "Limber"],
+            "regular": ["Merciless","Limber"],
             "hidden": "Regenerator"
         },
-        "stats": 
+        "stats":
         {
             "HP": 50,
             "Atk": 63,
@@ -1991,18 +1887,17 @@
             "SpA": 53,
             "SpD": 142,
             "Spe": 35
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Kommo-o",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png",
-        "types": ["Dragon", "Fighting"],
+        "types": ["Dragon","Fighting"],
         "abilities": {
-            "regular": ["Bulletproof", "Soundproof"],
+            "regular": ["Bulletproof","Soundproof"],
             "hidden": "Overcoat"
         },
-        "stats": 
+        "stats":
         {
             "HP": 75,
             "Atk": 110,
@@ -2010,18 +1905,17 @@
             "SpA": 100,
             "SpD": 105,
             "Spe": 85
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Corviknight",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png",
-        "types": ["Flying", "Steel"],
+        "types": ["Flying","Steel"],
         "abilities": {
-            "regular": ["Pressure", "Unnerve"],
+            "regular": ["Pressure","Unnerve"],
             "hidden": "Mirror Armor"
         },
-        "stats": 
+        "stats":
         {
             "HP": 98,
             "Atk": 87,
@@ -2029,18 +1923,17 @@
             "SpA": 53,
             "SpD": 85,
             "Spe": 67
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Grimmsnarl",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png",
-        "types": ["Dark", "Fairy"],
+        "types": ["Dark","Fairy"],
         "abilities": {
-            "regular": ["Prankster", "Frisk"],
+            "regular": ["Prankster","Frisk"],
             "hidden": "Pickpocket"
         },
-        "stats": 
+        "stats":
         {
             "HP": 95,
             "Atk": 120,
@@ -2048,18 +1941,17 @@
             "SpA": 95,
             "SpD": 75,
             "Spe": 60
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Dragapult",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png",
-        "types": ["Dragon", "Ghost"],
+        "types": ["Dragon","Ghost"],
         "abilities": {
-            "regular": ["Clear Body", "Infiltrator"],
+            "regular": ["Clear Body","Infiltrator"],
             "hidden": "Cursed Body"
         },
-        "stats": 
+        "stats":
         {
             "HP": 88,
             "Atk": 120,
@@ -2067,18 +1959,17 @@
             "SpA": 100,
             "SpD": 75,
             "Spe": 142
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Basculegion",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png",
-        "types": ["Water", "Ghost"],
+        "types": ["Water","Ghost"],
         "abilities": {
-            "regular": ["Swift Swim", "Adadptability"],
+            "regular": ["Swift Swim","Adadptability"],
             "hidden": "Mold Breaker"
         },
-        "stats": 
+        "stats":
         {
             "HP": 120,
             "Atk": 112,
@@ -2086,18 +1977,17 @@
             "SpA": 80,
             "SpD": 75,
             "Spe": 78
-        },
-        "observations": "Trainers are not allowed to use Basculegion-F in this format."
+        }
     },
     {
         "name": "Meowscarada",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png",
-        "types": ["Grass", "Dark"],
+        "types": ["Grass","Dark"],
         "abilities": {
             "regular": ["Overgrow"],
             "hidden": "Protean"
         },
-        "stats": 
+        "stats":
         {
             "HP": 76,
             "Atk": 110,
@@ -2105,18 +1995,17 @@
             "SpA": 81,
             "SpD": 70,
             "Spe": 123
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Garganacl",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/934.png",
         "types": ["Rock"],
         "abilities": {
-            "regular": ["Purifying Salt", "Sturdy"],
+            "regular": ["Purifying Salt","Sturdy"],
             "hidden": "Clear Body"
         },
-        "stats": 
+        "stats":
         {
             "HP": 100,
             "Atk": 100,
@@ -2124,8 +2013,7 @@
             "SpA": 45,
             "SpD": 90,
             "Spe": 35
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Palafin",
@@ -2135,7 +2023,7 @@
             "regular": ["Zero to Hero"],
             "hidden": ""
         },
-        "stats": 
+        "stats":
         {
             "HP": 100,
             "Atk": 70,
@@ -2143,18 +2031,17 @@
             "SpA": 53,
             "SpD": 62,
             "Spe": 100
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Clodsire",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png",
-        "types": ["Poison", "Ground"],
+        "types": ["Poison","Ground"],
         "abilities": {
-            "regular": ["Poison Point", "Water Absorb"],
+            "regular": ["Poison Point","Water Absorb"],
             "hidden": "Unaware"
         },
-        "stats": 
+        "stats":
         {
             "HP": 130,
             "Atk": 75,
@@ -2162,18 +2049,17 @@
             "SpA": 45,
             "SpD": 100,
             "Spe": 20
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Archaludon",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1018.png",
-        "types": ["Steel", "Dragon"],
+        "types": ["Steel","Dragon"],
         "abilities": {
-            "regular": ["Stamina", "Sturdy"],
+            "regular": ["Stamina","Sturdy"],
             "hidden": "Stalwart"
         },
-        "stats": 
+        "stats":
         {
             "HP": 90,
             "Atk": 105,
@@ -2181,18 +2067,17 @@
             "SpA": 125,
             "SpD": 65,
             "Spe": 85
-        },
-        "observations": ""
+        }
     },
     {
         "name": "Hydrapple",
         "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1019.png",
-        "types": ["Dragon", "Grass"],
+        "types": ["Dragon","Grass"],
         "abilities": {
-            "regular": ["Supersweet Syrup", "Regenerator"],
+            "regular": ["Supersweet Syrup","Regenerator"],
             "hidden": "Sticky Hold"
         },
-        "stats": 
+        "stats":
         {
             "HP": 106,
             "Atk": 80,
@@ -2200,7 +2085,6 @@
             "SpA": 120,
             "SpD": 80,
             "Spe": 44
-        },
-        "observations": ""
+        }
     }
 ]

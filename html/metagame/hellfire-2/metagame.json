@@ -1,0 +1,26 @@
+{
+  "title": "Hellfire Celebrational I",
+  "description": "Welcome to the Hellfire Celebrational format! In this page, you can expect to see:",
+  "highlights": [
+    "A quick overview of the format and why it exists;",
+    "The list of battle clauses in effect;",
+    "The list of banned held items;",
+    "The list of allowed Pokémon."
+  ],
+  "overview": "Hellfire Celebrational is a custom competitive format designed to celebrate Hellfire's current members and accomplishments at MirageCraft.<br>The main constraint of this format is the fact that all Pokémon mya only use moves of their own type!<br>The metagame is effectively a curated Doubles STABmon format!",
+  "clauses": [
+    {
+      "title": "Endless Battle Clause",
+      "body": "<p>Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.</p><p><strong>Example:</strong> A Slowbro can create an endless battle by having a Leppa Berry equipped and the moves Recycle, Heal Pulse, Slack Off and Block. You are not allowed to trap an opposing Pokémon and force an infinite battle by healing the opponent after PP stalling it.</p>"
+    },
+    {
+      "title": "Species-Form Clause",
+      "body": "<p>Players cannot use two Pokémon that share the same Pokédex number and form in the same team, <strong>unless</strong> explicitly mentioned in the Pokémon table.</p><p>Players are allowed to use two of the same Pokémon if they use different forms (if the forms are allowed).</p>"
+    }
+  ],
+  "bannedItemsFile": "hellfire-banned-items.json",
+  "heldItemsDataFile": "../../../data/held-items.json",
+  "pokemonFormatFile": "hellfire-pokemon.json",
+  "mandatoryPokemonFile": "mandatory-pokemon.json",
+  "pokemonDataFile": "../../../data/all-pokemon.json"
+}
