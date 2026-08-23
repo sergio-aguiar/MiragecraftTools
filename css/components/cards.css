@@ -37,9 +37,8 @@
 }
 
 .clause-body p strong {
-  display: block;
+  display: inline;
   color: #444;
-  margin-top: 5px;
 }
 
 .intro-card {

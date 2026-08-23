@@ -5,9 +5,10 @@
     "A quick overview of the format and why it exists;",
     "The list of battle clauses in effect;",
     "The list of banned held items;",
+    "The list of Pokémon you must use at least one of;",
     "The list of allowed Pokémon."
   ],
-  "overview": "Hellfire Celebrational is a custom competitive format designed to celebrate Hellfire's current members and accomplishments at MirageCraft.<br>The main constraint of this format is the fact that all Pokémon mya only use moves of their own type!<br>The metagame is effectively a curated Doubles STABmon format!",
+  "overview": "Hellfire Celebrational is a custom competitive format designed to celebrate Hellfire's current members and accomplishments at MirageCraft.<br>The main constraint of this format is the fact that all Pokémon may only use moves of their own type!<br>The metagame is effectively a curated Doubles STABmon format!",
   "clauses": [
     {
       "title": "Endless Battle Clause",
