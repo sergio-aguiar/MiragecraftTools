@@ -1,1 +1,646 @@
-[]
+﻿[
+  {
+    "name": "Venusaur",
+    "observations": ""
+  },
+  {
+    "name": "Charizard",
+    "observations": ""
+  },
+  {
+    "name": "Arbok",
+    "observations": ""
+  },
+  {
+    "name": "Pikachu",
+    "observations": ""
+  },
+  {
+    "name": "Raichu",
+    "observations": "Picked by Sergiii."
+  },
+  {
+    "name": "Raichu-Alola",
+    "observations": ""
+  },
+  {
+    "name": "Nidoking",
+    "observations": ""
+  },
+  {
+    "name": "Persian-Alola",
+    "observations": ""
+  },
+  {
+    "name": "Poliwrath",
+    "observations": ""
+  },
+  {
+    "name": "Tentacruel",
+    "observations": ""
+  },
+  {
+    "name": "Slowbro-Galar",
+    "observations": ""
+  },
+  {
+    "name": "Muk-Alola",
+    "observations": ""
+  },
+  {
+    "name": "Cloyster",
+    "observations": "Picked by JBossie."
+  },
+  {
+    "name": "Gengar",
+    "observations": ""
+  },
+  {
+    "name": "Marowak-Alola",
+    "observations": ""
+  },
+  {
+    "name": "Weezing-Galar",
+    "observations": ""
+  },
+  {
+    "name": "Gyarados",
+    "observations": ""
+  },
+  {
+    "name": "Flareon",
+    "observations": ""
+  },
+  {
+    "name": "Aerodactyl",
+    "observations": ""
+  },
+  {
+    "name": "Moltres",
+    "observations": ""
+  },
+  {
+    "name": "Dragonite",
+    "observations": ""
+  },
+  {
+    "name": "Mewtwo",
+    "observations": ""
+  },
+  {
+    "name": "Mew",
+    "observations": ""
+  },
+  {
+    "name": "Typhlosion-Hisui",
+    "observations": ""
+  },
+  {
+    "name": "Crobat",
+    "observations": ""
+  },
+  {
+    "name": "Azumarill",
+    "observations": ""
+  },
+  {
+    "name": "Murkrow",
+    "observations": ""
+  },
+  {
+    "name": "Scizor",
+    "observations": ""
+  },
+  {
+    "name": "Heracross",
+    "observations": "Picked by Junkryan."
+  },
+  {
+    "name": "Porygon2",
+    "observations": ""
+  },
+  {
+    "name": "Miltank",
+    "observations": ""
+  },
+  {
+    "name": "Tyranitar",
+    "observations": ""
+  },
+  {
+    "name": "Ho-Oh",
+    "observations": ""
+  },
+  {
+    "name": "Gardevoir",
+    "observations": ""
+  },
+  {
+    "name": "Breloom",
+    "observations": ""
+  },
+  {
+    "name": "Slaking",
+    "observations": ""
+  },
+  {
+    "name": "Mawile",
+    "observations": ""
+  },
+  {
+    "name": "Swalot",
+    "observations": ""
+  },
+  {
+    "name": "Camerupt",
+    "observations": ""
+  },
+  {
+    "name": "Torkoal",
+    "observations": ""
+  },
+  {
+    "name": "Flygon",
+    "observations": ""
+  },
+  {
+    "name": "Altaria",
+    "observations": ""
+  },
+  {
+    "name": "Seviper",
+    "observations": ""
+  },
+  {
+    "name": "Milotic",
+    "observations": ""
+  },
+  {
+    "name": "Banette",
+    "observations": ""
+  },
+  {
+    "name": "Rayquaza",
+    "observations": "Picked by Typel3ss."
+  },
+  {
+    "name": "Torterra",
+    "observations": ""
+  },
+  {
+    "name": "Staraptor",
+    "observations": ""
+  },
+  {
+    "name": "Bastiodon",
+    "observations": ""
+  },
+  {
+    "name": "Gastrodon",
+    "observations": ""
+  },
+  {
+    "name": "Lopunny",
+    "observations": ""
+  },
+  {
+    "name": "Bronzong",
+    "observations": ""
+  },
+  {
+    "name": "Spiritomb",
+    "observations": ""
+  },
+  {
+    "name": "Garchomp",
+    "observations": ""
+  },
+  {
+    "name": "Lucario",
+    "observations": ""
+  },
+  {
+    "name": "Hippowdon",
+    "observations": ""
+  },
+  {
+    "name": "Toxicroak",
+    "observations": ""
+  },
+  {
+    "name": "Glaceon",
+    "observations": ""
+  },
+  {
+    "name": "Gliscor",
+    "observations": ""
+  },
+  {
+    "name": "Mamoswine",
+    "observations": ""
+  },
+  {
+    "name": "Gallade",
+    "observations": ""
+  },
+  {
+    "name": "Rotom-Heat",
+    "observations": ""
+  },
+  {
+    "name": "Rotom-Wash",
+    "observations": ""
+  },
+  {
+    "name": "Heatran",
+    "observations": ""
+  },
+  {
+    "name": "Victini",
+    "observations": ""
+  },
+  {
+    "name": "Musharna",
+    "observations": ""
+  },
+  {
+    "name": "Swoobat",
+    "observations": ""
+  },
+  {
+    "name": "Excadrill",
+    "observations": ""
+  },
+  {
+    "name": "Leavanny",
+    "observations": "Picked by pioavenger."
+  },
+  {
+    "name": "Scolipede",
+    "observations": ""
+  },
+  {
+    "name": "Whimsicott",
+    "observations": ""
+  },
+  {
+    "name": "Krookodile",
+    "observations": ""
+  },
+  {
+    "name": "Scrafty",
+    "observations": ""
+  },
+  {
+    "name": "Garbodor",
+    "observations": ""
+  },
+  {
+    "name": "Zoroark",
+    "observations": ""
+  },
+  {
+    "name": "Zoroark-Hisui",
+    "observations": ""
+  },
+  {
+    "name": "Cinccino",
+    "observations": "Picked by Noddlefrog."
+  },
+  {
+    "name": "Galvantula",
+    "observations": ""
+  },
+  {
+    "name": "Chandelure",
+    "observations": ""
+  },
+  {
+    "name": "Haxorus",
+    "observations": ""
+  },
+  {
+    "name": "Golurk",
+    "observations": ""
+  },
+  {
+    "name": "Braviary-Hisui",
+    "observations": ""
+  },
+  {
+    "name": "Mandibuzz",
+    "observations": ""
+  },
+  {
+    "name": "Volcarona",
+    "observations": ""
+  },
+  {
+    "name": "Thundurus",
+    "observations": ""
+  },
+  {
+    "name": "Thundurus-Therian",
+    "observations": ""
+  },
+  {
+    "name": "Genesect",
+    "observations": ""
+  },
+  {
+    "name": "Chesnaught",
+    "observations": ""
+  },
+  {
+    "name": "Greninja",
+    "observations": ""
+  },
+  {
+    "name": "Talonflame",
+    "observations": ""
+  },
+  {
+    "name": "Spewpa",
+    "observations": ""
+  },
+  {
+    "name": "Vivillon",
+    "observations": ""
+  },
+  {
+    "name": "Aegislash",
+    "observations": ""
+  },
+  {
+    "name": "Dragalge",
+    "observations": ""
+  },
+  {
+    "name": "Tyrantrum",
+    "observations": "Picked by NathanP81."
+  },
+  {
+    "name": "Hawlucha",
+    "observations": "Picked by TheMisterRad."
+  },
+  {
+    "name": "Goodra-Hisui",
+    "observations": ""
+  },
+  {
+    "name": "Noivern",
+    "observations": ""
+  },
+  {
+    "name": "Diancie",
+    "observations": ""
+  },
+  {
+    "name": "Decidueye",
+    "observations": ""
+  },
+  {
+    "name": "Primarina",
+    "observations": ""
+  },
+  {
+    "name": "Vikavolt",
+    "observations": ""
+  },
+  {
+    "name": "Oricorio",
+    "observations": ""
+  },
+  {
+    "name": "Ribombee",
+    "observations": ""
+  },
+  {
+    "name": "Toxapex",
+    "observations": ""
+  },
+  {
+    "name": "Mudsdale",
+    "observations": ""
+  },
+  {
+    "name": "Salazzle",
+    "observations": ""
+  },
+  {
+    "name": "Bewear",
+    "observations": ""
+  },
+  {
+    "name": "Comfey",
+    "observations": "Picked by Michi_Tria."
+  },
+  {
+    "name": "Oranguru",
+    "observations": ""
+  },
+  {
+    "name": "Pyukumuku",
+    "observations": ""
+  },
+  {
+    "name": "Mimikyu",
+    "observations": ""
+  },
+  {
+    "name": "Kommo-o",
+    "observations": ""
+  },
+  {
+    "name": "Tapu Koko",
+    "observations": ""
+  },
+  {
+    "name": "Buzzwole",
+    "observations": ""
+  },
+  {
+    "name": "Marshadow",
+    "observations": "Picked by Wizzway."
+  },
+  {
+    "name": "Blacephalon",
+    "observations": ""
+  },
+  {
+    "name": "Melmetal",
+    "observations": ""
+  },
+  {
+    "name": "Rillaboom",
+    "observations": ""
+  },
+  {
+    "name": "Corviknight",
+    "observations": ""
+  },
+  {
+    "name": "Cramorant",
+    "observations": ""
+  },
+  {
+    "name": "Toxtricity",
+    "observations": ""
+  },
+  {
+    "name": "Grimmsnarl",
+    "observations": ""
+  },
+  {
+    "name": "Obstagoon",
+    "observations": ""
+  },
+  {
+    "name": "Sirfetchâ€™d",
+    "observations": ""
+  },
+  {
+    "name": "Snom",
+    "observations": ""
+  },
+  {
+    "name": "Eiscue",
+    "observations": ""
+  },
+  {
+    "name": "Morpeko",
+    "observations": ""
+  },
+  {
+    "name": "Dracovish",
+    "observations": ""
+  },
+  {
+    "name": "Duraludon",
+    "observations": ""
+  },
+  {
+    "name": "Dragapult",
+    "observations": ""
+  },
+  {
+    "name": "Zacian",
+    "observations": ""
+  },
+  {
+    "name": "Zamazenta",
+    "observations": ""
+  },
+  {
+    "name": "Eternatus",
+    "observations": "Picked by Chaos_Camaro."
+  },
+  {
+    "name": "Urshifu-Rapid Strike",
+    "observations": ""
+  },
+  {
+    "name": "Kleavor",
+    "observations": ""
+  },
+  {
+    "name": "Sneasler",
+    "observations": ""
+  },
+  {
+    "name": "Overqwil",
+    "observations": ""
+  },
+  {
+    "name": "Enamorus",
+    "observations": ""
+  },
+  {
+    "name": "Meowscarada",
+    "observations": ""
+  },
+  {
+    "name": "Quaquaval",
+    "observations": ""
+  },
+  {
+    "name": "Lokix",
+    "observations": ""
+  },
+  {
+    "name": "Pawmot",
+    "observations": ""
+  },
+  {
+    "name": "Dachsbun",
+    "observations": ""
+  },
+  {
+    "name": "Garganacl",
+    "observations": ""
+  },
+  {
+    "name": "Armarouge",
+    "observations": ""
+  },
+  {
+    "name": "Ceruledge",
+    "observations": ""
+  },
+  {
+    "name": "Bellibolt",
+    "observations": ""
+  },
+  {
+    "name": "Klawf",
+    "observations": ""
+  },
+  {
+    "name": "Scovillain",
+    "observations": ""
+  },
+  {
+    "name": "Palafin",
+    "observations": ""
+  },
+  {
+    "name": "Cetitan",
+    "observations": ""
+  },
+  {
+    "name": "Annihilape",
+    "observations": ""
+  },
+  {
+    "name": "Clodsire",
+    "observations": ""
+  },
+  {
+    "name": "Farigiraf",
+    "observations": ""
+  },
+  {
+    "name": "Flutter Mane",
+    "observations": ""
+  },
+  {
+    "name": "Slither Wing",
+    "observations": "Picked by _SkyeF_."
+  },
+  {
+    "name": "Gholdengo",
+    "observations": ""
+  },
+  {
+    "name": "Miraidon",
+    "observations": ""
+  },
+  {
+    "name": "Ogerpon",
+    "observations": ""
+  },
+  {
+    "name": "Archaludon",
+    "observations": ""
+  }
+]
