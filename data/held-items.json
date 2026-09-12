@@ -1,54 +1,82 @@
 ﻿[
   {
+    "name": "Charizardite Y",
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/charizarditey.png"
+  },
+  {
     "name": "Charizardite X",
-    "img": "https://veekun.com/dex/media/items/charizardite-x.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/charizarditex.png"
   },
   {
     "name": "Alakazite",
-    "img": "https://veekun.com/dex/media/items/alakazite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/alakazite.png"
   },
   {
     "name": "Slowbronite",
-    "img": "https://veekun.com/dex/media/items/slowbronite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/slowbronite.png"
   },
   {
     "name": "Gengarite",
-    "img": "https://veekun.com/dex/media/items/gengarite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/gengarite.png"
   },
   {
     "name": "Steelixite",
-    "img": "https://veekun.com/dex/media/items/steelixite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/steelixite.png"
   },
   {
     "name": "Tyranitarite",
-    "img": "https://veekun.com/dex/media/items/tyranitarite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/tyranitarite.png"
   },
   {
     "name": "Swampertite",
-    "img": "https://veekun.com/dex/media/items/swampertite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/swampertite.png"
   },
   {
     "name": "Aggronite",
-    "img": "https://veekun.com/dex/media/items/aggronite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/aggronite.png"
   },
   {
     "name": "Salamencite",
-    "img": "https://veekun.com/dex/media/items/salamencite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/salamencite.png"
   },
   {
     "name": "Metagrossite",
-    "img": "https://veekun.com/dex/media/items/metagrossite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/metagrossite.png"
   },
   {
     "name": "Garchompite",
-    "img": "https://veekun.com/dex/media/items/garchompite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/garchompite.png"
   },
   {
     "name": "Lucarionite",
-    "img": "https://veekun.com/dex/media/items/lucarionite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/lucarionite.png"
   },
   {
     "name": "Galladite",
-    "img": "https://veekun.com/dex/media/items/galladite.png"
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/galladite.png"
+  },
+  {
+    "name": "Red Orb",
+    "img": "https://www.serebii.net/itemdex/sprites/pgl/redorb.png"
+  },
+  {
+    "name": "Rusted Sword",
+    "img": "https://www.serebii.net/itemdex/sprites/sv/rustedsword.png"
+  },
+  {
+    "name": "Rusted Shield",
+    "img": "https://www.serebii.net/itemdex/sprites/sv/rustedshield.png"
+  },
+  {
+    "name": "Raichunite X",
+    "img": "https://www.serebii.net/itemdex/sprites/raichunitex.png"
+  },
+  {
+    "name": "Magearnite",
+    "img": "https://www.serebii.net/itemdex/sprites/magearnite.png"
+  },
+  {
+    "name": "Heatranite",
+    "img": "https://www.serebii.net/itemdex/sprites/heatranite.png"
   }
 ]

@@ -1,1 +1,30 @@
-[]
+﻿[
+  {
+    "name": "Charizardite Y",
+    "observations": "Charizard's Mega-Y form is not allowed."
+  },
+  {
+    "name": "Red Orb",
+    "observations": "Groudon's Primal form is not allowed."
+  },
+  {
+    "name": "Rusted Sword",
+    "observations": "Zacian's Crowned Sword form is not allowed."
+  },
+  {
+    "name": "Rusted Shield",
+    "observations": "Zamazenta's Crowned Shield form is not allowed."
+  },
+  {
+    "name": "Raichunite X",
+    "observations": "Raichu's Mega-X form is not allowed."
+  },
+  {
+    "name": "Magearnite",
+    "observations": "Magearna's Mega form is not allowed."
+  },
+  {
+    "name": "Heatranite",
+    "observations": "Heatran's Mega form is not allowed."
+  }
+]

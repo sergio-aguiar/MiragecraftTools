@@ -5,7 +5,7 @@
   },
   {
     "name": "Charizard",
-    "observations": ""
+    "observations": "This pokémon is not allowed to mega evolve into its Mega-Y form."
   },
   {
     "name": "Arbok",
@@ -17,10 +17,14 @@
   },
   {
     "name": "Raichu",
-    "observations": "Picked by Sergiii."
+    "observations": "Picked by Sergiii. This pokémon is not allowed to mega evolve into its Mega-X form."
   },
   {
     "name": "Raichu-Alola",
+    "observations": ""
+  },
+  {
+    "name": "Nidoqueen",
     "observations": ""
   },
   {
@@ -29,6 +33,10 @@
   },
   {
     "name": "Persian-Alola",
+    "observations": ""
+  },
+  {
+    "name": "Arcanine-Hisui",
     "observations": ""
   },
   {
@@ -56,11 +64,19 @@
     "observations": ""
   },
   {
+    "name": "Electrode-Hisui",
+    "observations": ""
+  },
+  {
     "name": "Marowak-Alola",
     "observations": ""
   },
   {
     "name": "Weezing-Galar",
+    "observations": ""
+  },
+  {
+    "name": "Kangaskhan",
     "observations": ""
   },
   {
@@ -105,7 +121,7 @@
   },
   {
     "name": "Murkrow",
-    "observations": ""
+    "observations": "This pokémon is not allowed to have the Prankster ability."
   },
   {
     "name": "Scizor",
@@ -148,6 +164,10 @@
     "observations": ""
   },
   {
+    "name": "Aggron",
+    "observations": ""
+  },
+  {
     "name": "Swalot",
     "observations": ""
   },
@@ -157,7 +177,7 @@
   },
   {
     "name": "Torkoal",
-    "observations": ""
+    "observations": "This pokémon is not allowed to have the Drought ability."
   },
   {
     "name": "Flygon",
@@ -172,6 +192,10 @@
     "observations": ""
   },
   {
+    "name": "Armaldo",
+    "observations": ""
+  },
+  {
     "name": "Milotic",
     "observations": ""
   },
@@ -180,8 +204,16 @@
     "observations": ""
   },
   {
+    "name": "Relicanth",
+    "observations": ""
+  },
+  {
+    "name": "Groudon",
+    "observations": "This pokémon is not allowed to equip the Red Orb and undergo Primal Reversion."
+  },
+  {
     "name": "Rayquaza",
-    "observations": "Picked by Typel3ss."
+    "observations": "Picked by Typel3ss. This pokémon is not allowed to know the move Dragon Ascent. Mega Rayquaza is banned."
   },
   {
     "name": "Torterra",
@@ -253,7 +285,7 @@
   },
   {
     "name": "Heatran",
-    "observations": ""
+    "observations": "This pokémon is not allowed to mega evolve."
   },
   {
     "name": "Victini",
@@ -288,7 +320,15 @@
     "observations": ""
   },
   {
+    "name": "Darmanitan",
+    "observations": ""
+  },
+  {
     "name": "Scrafty",
+    "observations": ""
+  },
+  {
+    "name": "Archeops",
     "observations": ""
   },
   {
@@ -337,7 +377,7 @@
   },
   {
     "name": "Thundurus",
-    "observations": ""
+    "observations": "This pokémon is not allowed to have the Prankster ability."
   },
   {
     "name": "Thundurus-Therian",
@@ -357,7 +397,7 @@
   },
   {
     "name": "Talonflame",
-    "observations": ""
+    "observations": "This pokémon is not allowed to have the Gale Wings ability."
   },
   {
     "name": "Spewpa",
@@ -366,6 +406,10 @@
   {
     "name": "Vivillon",
     "observations": ""
+  },
+  {
+    "name": "Floette-Eternal",
+    "observations": "Picked by EmeraldN64"
   },
   {
     "name": "Aegislash",
@@ -440,10 +484,6 @@
     "observations": ""
   },
   {
-    "name": "Pyukumuku",
-    "observations": ""
-  },
-  {
     "name": "Mimikyu",
     "observations": ""
   },
@@ -453,11 +493,15 @@
   },
   {
     "name": "Tapu Koko",
-    "observations": ""
+    "observations": "This pokémon is not allowed to have the Electric Surge ability."
   },
   {
     "name": "Buzzwole",
     "observations": ""
+  },
+  {
+    "name": "Magearna",
+    "observations": "This pokémon is not allowed to mega evolve."
   },
   {
     "name": "Marshadow",
@@ -628,6 +672,10 @@
     "observations": "Picked by _SkyeF_."
   },
   {
+    "name": "Iron Moth",
+    "observations": ""
+  },
+  {
     "name": "Gholdengo",
     "observations": ""
   },
@@ -641,6 +689,10 @@
   },
   {
     "name": "Archaludon",
+    "observations": ""
+  },
+  {
+    "name": "Hydrapple",
     "observations": ""
   }
 ]

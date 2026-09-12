@@ -1,7 +1,7 @@
 ﻿[
   {
     "name": "Raichu",
-    "observations": "Picked by Sergiii."
+    "observations": "Picked by Sergiii. This pokémon is not allowed to mega evolve into its Mega-X form."
   },
   {
     "name": "Cloyster",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Rayquaza",
-    "observations": "Picked by Typel3ss."
+    "observations": "Picked by Typel3ss. This pokémon is not allowed to know the move Dragon Ascent. Mega Rayquaza is banned."
   },
   {
     "name": "Leavanny",
@@ -22,6 +22,10 @@
   {
     "name": "Cinccino",
     "observations": "Picked by Noddlefrog."
+  },
+  {
+    "name": "Floette-Eternal",
+    "observations": "Picked by EmeraldN64."
   },
   {
     "name": "Tyrantrum",
