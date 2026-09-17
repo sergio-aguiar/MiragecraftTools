@@ -32,6 +32,10 @@
     "observations": ""
   },
   {
+    "name": "Ninetales-Alola",
+    "observations": "This pokémon is not allowed to have the Snow Warning ability."
+  },
+  {
     "name": "Persian-Alola",
     "observations": ""
   },
@@ -81,6 +85,10 @@
   },
   {
     "name": "Gyarados",
+    "observations": ""
+  },
+  {
+    "name": "Jolteon",
     "observations": ""
   },
   {
@@ -152,6 +160,10 @@
     "observations": ""
   },
   {
+    "name": "Masquerain",
+    "observations": ""
+  },
+  {
     "name": "Breloom",
     "observations": ""
   },
@@ -214,6 +226,10 @@
   {
     "name": "Rayquaza",
     "observations": "Picked by Typel3ss. This pokémon is not allowed to know the move Dragon Ascent. Mega Rayquaza is banned."
+  },
+  {
+    "name": "Jirachi",
+    "observations": ""
   },
   {
     "name": "Torterra",
@@ -292,6 +308,10 @@
     "observations": ""
   },
   {
+    "name": "Simisear",
+    "observations": ""
+  },
+  {
     "name": "Musharna",
     "observations": ""
   },
@@ -313,6 +333,10 @@
   },
   {
     "name": "Whimsicott",
+    "observations": ""
+  },
+  {
+    "name": "Lilligant",
     "observations": ""
   },
   {
@@ -349,6 +373,10 @@
   },
   {
     "name": "Galvantula",
+    "observations": ""
+  },
+  {
+    "name": "Eelektross",
     "observations": ""
   },
   {
@@ -652,6 +680,10 @@
     "observations": ""
   },
   {
+    "name": "Tatsugiri",
+    "observations": ""
+  },
+  {
     "name": "Annihilape",
     "observations": ""
   },
@@ -677,6 +709,10 @@
   },
   {
     "name": "Gholdengo",
+    "observations": ""
+  },
+  {
+    "name": "Roaring Moon",
     "observations": ""
   },
   {
