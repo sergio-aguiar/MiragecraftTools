@@ -1,0 +1,38 @@
+{
+  "title": "Mona Draft League I",
+  "description": "A draft-style challenge where each team is built around one of three role archetypes.",
+  "highlights": [
+    "Three separate Pokémon tables for offensive, defensive, and mixed picks;",
+    "Each row includes a checkbox to mark a Pokémon as unavailable for drafting;",
+    "The draft roster is grouped to reflect balanced team-building priorities."
+  ],
+  "overview": "<p>Mona Draft League is a structured draft format for building a team around a mix of pressure, stability, and flexibility. The tables below are meant to help track which Pokémon are still available or already locked out for a draft pick.</p>",
+  "clauses": [
+    {
+      "title": "Draft Availability",
+      "body": "<p>Use the checkbox beside each Pokémon to mark it unavailable when a pick is no longer legal or has already been drafted.</p>"
+    },
+    {
+      "title": "Role Split",
+      "body": "<p>Offensive picks are meant to pressure the opponent quickly, defensive picks are meant to absorb pressure and hold a position, and mixed picks give a flexible middle ground.</p>"
+    }
+  ],
+  "pokemonTables": [
+    {
+      "title": "Offensive Pokémon",
+      "file": "mona-offensive-pokemon.json",
+      "selectable": true
+    },
+    {
+      "title": "Defensive Pokémon",
+      "file": "mona-defensive-pokemon.json",
+      "selectable": true
+    },
+    {
+      "title": "Mixed Pokémon",
+      "file": "mona-mixed-pokemon.json",
+      "selectable": true
+    }
+  ],
+  "pokemonDataFile": "../../../data/all-pokemon.json"
+}
